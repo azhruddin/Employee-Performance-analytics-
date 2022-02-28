@@ -1,0 +1,930 @@
+Employee Name,Employee ID,Designation,Percent Salary Hike,Training in Hours,Tenure,Monthly Salary,Total Work Experience,Years Since Last Promotion,Education Level,Adaptability and Initiative ,Attendance and Punctuality,Leadership Skills,Quality of deliverables ,Self Evaluation ,Communication Skills,Judgement and Decision Making,Team work skills,Productivity (in percentage),Customer Relation Skills,Job Knowledge ,Reliability/Dependability,Performance Rating (Output Variable)
+Kate,100004,Data Engineer,10,58.5,1.2," 38,426 ", 1.2 ,1,Graduate,1,2,2,5,5,3,3,5,1,5,1,3,B
+Sabrina,100364,Data Engineer,6,97.5,1.5," 41,065 ", 2.8 ,1,Graduate,3,4,3,5,4,4,1,5,5,2,3,4,B
+Lilianna,100005,Data Analyst,6,58.5,9.4," 54,663 ", 9.4 ,7,Graduate,5,2,4,5,5,4,3,5,3,5,1,5,A
+Ada,100007,Data Engineer,6,58.5,3.3," 49,950 ", 6.1 ,2,Graduate,3,5,1,2,5,3,4,3,5,4,4,4,B
+Nicole,100008,Data Engineer,8,39,8.1," 45,261 ", 10.9 ,8,Post Graduate,5,5,1,2,4,2,1,5,5,3,3,5,B
+Jenna,100010,Data Engineer,14,58.5,3," 45,532 ", 3.0 ,1,Post Graduate,1,2,3,3,5,3,1,4,2,1,3,5,B
+Fenton,100011,Data Engineer,16,39,2.9," 42,385 ", 4.3 ,2,Graduate,5,3,1,1,5,5,1,1,2,1,4,2,C
+Abigail,100012,Data Scientist,16,39,10.2," 63,207 ", 12.2 ,4,Doctorate,3,5,1,2,5,5,1,4,1,3,2,4,B
+Adrianna,100405,Data Engineer,8,39,1.5," 36,733 ", 3.0 ,1,Post Graduate,3,1,2,5,5,1,2,2,1,3,1,5,C
+Michelle,100015,Data Engineer,6,58.5,10.7," 48,383 ", 10.7 ,3,Graduate,2,2,4,5,4,4,4,3,3,5,4,5,A
+Kevin,100614,Software Developer,8,58.5,1.2," 22,128 ", 2.9 ,1,Graduate,1,3,4,5,5,2,5,3,5,1,3,2,B
+David,100618,Business Analyst,6,97.5,1.3," 50,738 ", 3.9 ,1,Graduate,3,4,4,5,5,2,2,4,5,4,2,4,A
+Melanie,100775,Data Scientist,8,58.5,1.7," 60,341 ", 3.2 ,1,Doctorate,1,1,5,1,4,5,4,4,5,1,4,3,B
+Rosie,101113,Business Analyst,8,78,1.9," 55,711 ", 3.7 ,1,Graduate,5,4,5,5,5,2,2,3,2,2,5,2,B
+Nicholas,101156,Data Engineer,6,0,1.1," 32,435 ", 2.6 ,1,Post Graduate,3,5,4,3,4,4,1,5,5,1,1,3,B
+April,101203,Data Analyst,6,97.5,1.1," 33,617 ", 2.7 ,1,Post Graduate,5,4,1,5,4,3,3,3,1,3,1,3,B
+Sam,100028,Chief Data Scientist,6,78,13.4," 183,497 ", 19.3 ,6,Doctorate,1,1,3,2,4,3,4,1,4,4,2,3,C
+Eric,100030,Data Analyst,8,117,1.1," 42,151 ", 3.7 ,1,Post Graduate,2,3,4,3,4,5,2,1,5,2,5,3,B
+Freddie,101212,Business Analyst,6,39,2," 50,985 ", 3.5 ,1,Post Graduate,4,4,2,5,5,5,5,4,4,4,4,1,A
+Andrew,100032,Data Architect,6,58.5,14," 104,200 ", 14.0 ,4,Doctorate,3,2,2,4,4,3,3,1,1,2,2,5,C
+Samantha,100033,Data Analyst,16,97.5,11.1," 48,249 ", 12.6 ,1,Post Graduate,2,4,2,1,4,5,3,2,1,3,1,3,C
+Emily,100035,Business Analyst,6,39,10.7," 77,862 ", 13.3 ,3,Post Graduate,4,4,2,1,5,5,2,2,4,3,1,1,B
+Derek,101494,Data Engineer,6,39,1.9," 37,376 ", 3.0 ,1,Post Graduate,4,1,1,5,5,2,2,1,4,5,3,1,B
+Edgar,101504,Data Engineer,6,39,1.9," 30,176 ", 3.2 ,1,Graduate,1,5,2,4,5,4,4,2,5,1,4,5,B
+Alan,101624,Software Developer,6,39,1.2," 22,488 ", 2.7 ,1,Graduate,1,3,1,3,4,4,1,5,4,5,5,4,B
+Ryan,100046,Data Analyst,6,58.5,6.1," 45,851 ", 9.1 ,3,Graduate,2,5,1,4,5,1,2,1,1,1,1,1,C
+Abigail,101687,Data Engineer,14,97.5,1.4," 38,955 ", 2.9 ,1,Post Graduate,2,4,2,4,5,5,2,4,2,5,4,1,B
+Nicholas,100049,Software Developer,8,58.5,3.2," 31,275 ", 4.5 ,2,Graduate,3,4,4,1,5,1,1,5,4,1,3,4,B
+Cherry,100051,Data Analyst,8,58.5,2.6," 41,466 ", 4.7 ,2,Post Graduate,2,4,2,4,4,5,4,2,5,2,5,3,B
+Owen,100052,Business Analyst,14,58.5,6.3," 68,403 ", 7.3 ,4,Graduate,2,1,1,1,4,3,5,2,4,3,1,5,C
+Olivia,100053,Data Engineer,6,58.5,2.3," 49,997 ", 4.9 ,1,Graduate,5,3,5,4,4,4,1,4,5,4,1,5,A
+Antony,101734,Business Analyst,10,39,2," 79,360 ", 3.3 ,1,Graduate,5,3,3,3,5,2,4,3,5,5,5,1,A
+Carina,101853,Business Analyst,8,39,1.2," 54,768 ", 1.2 ,1,Graduate,2,2,5,3,4,2,3,1,2,4,3,1,C
+Arnold,100058,Chief Data Scientist,6,0,23.2," 146,098 ", 30.2 ,2,Post Graduate,5,4,3,5,5,4,2,3,2,5,2,4,A
+Adelaide,100060,Business Analyst,14,39,10.7," 69,169 ", 14.5 ,4,Graduate,2,4,1,3,5,3,5,5,4,1,5,1,B
+Eric,100062,Business Analyst,16,78,10.1," 71,648 ", 11.3 ,3,Graduate,2,3,1,2,5,1,1,3,5,4,3,4,B
+Luke,100063,Data Engineer,14,39,2.2," 42,504 ", 2.2 ,2,Graduate,3,2,1,2,4,2,2,5,2,1,5,2,C
+Hailey,100022,Data Engineer,8,39,2.2," 61,062 ", 3.9 ,1,Post Graduate,3,4,1,2,4,1,3,5,5,5,2,5,B
+James,100042,Software Developer,8,117,2.8," 43,529 ", 4.6 ,1,Graduate,4,4,4,5,5,2,5,1,1,5,4,4,A
+Aldus,100072,Business Analyst,14,39,3.3," 54,793 ", 4.5 ,2,Graduate,4,3,1,2,4,5,5,4,1,2,3,1,B
+Adele,100073,Chief Data Scientist,6,19.5,16.2," 146,721 ", 18.4 ,4,Post Graduate,4,1,4,3,5,1,5,5,3,2,1,3,B
+Belinda,100075,Data Engineer,10,58.5,3.3," 54,865 ", 5.9 ,3,Post Graduate,4,3,1,4,5,1,5,3,1,3,5,3,B
+Rubie,100076,Data Engineer,16,58.5,8.6," 51,623 ", 10.8 ,1,Graduate,1,4,4,5,4,3,4,1,1,4,3,1,B
+Max,100077,Data Scientist,12,39,8.6," 77,606 ", 8.6 ,4,Graduate,4,2,4,1,4,4,3,5,3,5,4,5,A
+Paige,100055,Data Engineer,6,39,2.4," 40,760 ", 2.4 ,2,Graduate,3,2,5,1,5,2,2,5,1,5,1,3,B
+Lana,100080,Chief Data Scientist,6,39,28.9," 130,533 ", 28.9 ,5,Post Graduate,2,2,3,3,5,4,3,2,3,5,4,3,B
+Richard,100064,Data Engineer,8,39,2.3," 45,697 ", 4.1 ,1,Graduate,3,1,5,3,5,4,2,5,1,4,2,1,B
+Miranda,100083,Domain Expert,8,39,18.7," 80,657 ", 20.0 ,3,Post Graduate,3,1,4,4,5,2,2,2,3,4,4,1,B
+Vanessa,100084,Data Architect,8,39,6.9," 105,189 ", 12.1 ,5,Graduate,2,1,1,1,5,5,3,3,4,3,1,4,B
+April,100086,Data Scientist,12,39,2," 75,744 ", 2.0 ,1,Post Graduate,2,2,5,4,4,1,1,3,1,1,4,5,B
+Charlotte,100224,Data Analyst,10,39,2.4," 59,365 ", 4.4 ,2,Post Graduate,2,1,5,5,4,5,1,1,4,3,1,1,B
+Nicholas,100094,Data Analyst,18,58.5,6.9," 39,876 ", 6.9 ,3,Graduate,5,2,5,1,5,2,1,1,1,3,4,2,C
+Kirsten,100095,Data Analyst,12,78,2.9," 54,476 ", 4.0 ,2,Graduate,5,3,4,2,4,5,1,2,2,5,5,5,B
+Kevin,100096,Data Scientist,12,58.5,11.1," 58,765 ", 11.1 ,7,Doctorate,5,2,5,2,4,1,3,1,5,2,3,4,B
+Jenna,100097,Data Engineer,6,58.5,2.9," 49,550 ", 2.9 ,1,Post Graduate,1,2,3,5,4,1,3,5,3,5,1,4,B
+Daniel,100243,Data Engineer,16,58.5,2.9," 56,561 ", 4.7 ,2,Graduate,3,4,3,1,4,5,4,4,3,3,5,4,B
+Eleanor,100101,Chief Data Scientist,8,58.5,1.5," 140,406 ", 16.1 ,1,Post Graduate,4,1,1,4,5,1,5,3,4,2,5,1,B
+Miranda,100102,Chief Data Scientist,8,58.5,6.1," 139,934 ", 16.1 ,3,Post Graduate,3,2,4,1,4,2,4,1,3,1,4,5,B
+Sawyer,100103,Database Administrator,16,39,5.5," 67,507 ", 7.5 ,1,Graduate,1,1,3,2,4,1,1,1,2,5,1,2,C
+Kate,100104,Data Engineer,6,19.5,11.3," 61,298 ", 12.4 ,6,Graduate,4,4,5,4,5,3,3,5,3,1,4,4,A
+Fenton,100107,Data Analyst,6,58.5,10.2," 44,012 ", 12.8 ,7,Post Graduate,5,5,4,4,5,3,2,1,3,5,3,3,B
+Roland,100261,Data Scientist,8,19.5,2.5," 53,976 ", 5.0 ,1,Post Graduate,5,1,2,2,5,1,4,5,4,3,1,5,B
+Daisy,100334,Data Analyst,10,39,2.7," 44,283 ", 5.7 ,1,Graduate,2,1,1,2,5,2,3,5,3,3,1,2,C
+Mary,100113,Software Developer,8,58.5,1.5," 53,957 ", 4.2 ,1,Graduate,1,3,4,1,4,5,2,3,3,2,3,5,B
+Stuart,100116,Data Engineer,18,78,5.8," 38,462 ", 7.2 ,1,Graduate,5,1,3,4,4,1,5,1,3,1,4,2,B
+Grace,100117,Domain Expert,14,58.5,12.5," 59,684 ", 12.5 ,7,Graduate,1,2,4,4,5,3,4,5,1,3,5,3,B
+Violet,100342,Data Scientist,6,97.5,2.2," 88,305 ", 6.6 ,1,Doctorate,1,4,1,4,4,2,2,2,4,4,4,5,B
+Isabella,100392,Data Engineer,16,0,2.3," 37,246 ", 4.2 ,1,Graduate,2,5,1,3,5,3,1,5,5,5,1,5,B
+Luke,100125,Business Analyst,10,0,12.4," 80,716 ", 15.6 ,3,Post Graduate,1,3,1,1,5,3,3,3,5,3,2,5,B
+Aiden,100126,Chief Data Scientist,6,78,5.4," 145,132 ", 16.7 ,4,Post Graduate,3,5,4,2,5,5,2,5,5,1,4,4,A
+Jared,100445,Business Analyst,12,58.5,2.3," 61,719 ", 4.7 ,2,Post Graduate,2,5,1,5,5,1,3,3,1,4,2,3,B
+Honey,100485,Software Developer,8,39,3," 33,593 ", 4.2 ,1,Graduate,4,1,4,2,5,1,2,4,2,5,1,2,B
+Belinda,100132,Data Engineer,6,58.5,4.3," 43,257 ", 5.7 ,2,Graduate,1,1,2,3,5,4,4,2,5,5,5,1,B
+Patrick,100133,Database Administrator,16,58.5,4.9," 42,668 ", 6.3 ,3,Post Graduate,3,4,3,3,4,3,3,5,3,5,4,3,B
+Rosie,100137,Data Engineer,12,97.5,2.8," 65,222 ", 2.8 ,2,Graduate,2,2,4,4,4,3,3,3,5,2,4,1,B
+Fiona,100138,Data Analyst,8,58.5,12.3," 58,965 ", 13.6 ,2,Post Graduate,3,4,1,4,5,1,3,4,5,3,3,4,B
+Deanna,100140,Data Architect,16,58.5,4.8," 75,544 ", 7.8 ,3,Doctorate,4,5,5,5,5,3,5,5,3,4,2,2,A
+Edith,100141,Chief Data Scientist,14,19.5,9.3," 150,905 ", 15.5 ,6,Post Graduate,1,1,1,1,5,2,5,4,5,3,3,2,B
+Clark,100144,Data Engineer,10,97.5,1.9," 47,004 ", 3.5 ,1,Graduate,5,1,4,2,4,2,3,2,4,4,5,2,B
+Gianna,100147,Data Engineer,18,58.5,10.8," 51,059 ", 12.0 ,4,Post Graduate,5,5,2,4,4,4,5,1,4,3,1,2,B
+Wilson,100148,Data Architect,6,58.5,6," 105,438 ", 9.2 ,6,Graduate,3,5,3,5,5,2,3,4,1,2,1,3,B
+Sarah,100150,Data Engineer,6,39,6.9," 46,734 ", 8.3 ,1,Graduate,1,4,3,2,5,3,2,4,3,4,1,1,B
+Alina,100151,Data Analyst,10,58.5,2.9," 43,634 ", 2.9 ,1,Post Graduate,1,2,3,2,5,3,4,4,3,1,5,3,B
+Mary,100487,Data Scientist,8,39,2.4," 61,955 ", 4.2 ,1,Doctorate,2,4,4,2,4,5,4,2,3,5,1,2,B
+Kellan,100155,Data Engineer,16,39,2.7," 37,460 ", 3.9 ,2,Graduate,5,1,2,1,5,5,3,5,4,3,1,2,B
+Albert,100159,Data Analyst,20,39,11.9," 41,279 ", 14.8 ,4,Graduate,3,3,2,4,5,3,1,4,4,5,1,4,B
+Tess,100494,Software Developer,10,0,2.6," 32,002 ", 3.8 ,2,Graduate,3,4,2,3,5,4,2,5,3,4,1,2,B
+Alen,100622,Data Engineer,12,58.5,2.7," 37,572 ", 2.7 ,2,Graduate,1,2,3,1,4,2,2,5,4,1,4,1,C
+Amelia,100162,Chief Data Scientist,8,78,21.2," 148,831 ", 22.6 ,7,Post Graduate,3,3,2,3,4,3,2,1,2,3,2,5,B
+Alexia,100684,Business Analyst,8,78,2.1," 50,502 ", 2.1 ,1,Post Graduate,4,2,3,2,5,4,5,4,5,4,3,3,A
+Joyce,100164,Data Analyst,14,58.5,6.3," 40,547 ", 8.1 ,1,Post Graduate,5,5,4,1,4,1,3,2,1,3,2,2,B
+Lucas,100169,Data Engineer,8,39,3.3," 57,903 ", 3.3 ,1,Graduate,1,2,1,2,4,2,2,1,3,3,3,1,C
+Penelope,100171,Data Analyst,6,39,4.3," 42,681 ", 6.5 ,4,Post Graduate,1,4,4,5,4,3,2,3,3,4,4,2,B
+Chester,100701,Data Analyst,6,97.5,2.8," 31,889 ", 4.1 ,1,Post Graduate,3,4,4,5,5,5,1,1,1,5,2,3,B
+Alexia,100177,Database Administrator,18,58.5,9," 61,226 ", 10.2 ,3,Graduate,5,1,1,5,5,3,1,3,2,5,1,5,B
+Rafael,100178,Data Scientist,14,0,4.7," 70,760 ", 6.5 ,3,Post Graduate,5,1,4,5,4,4,5,3,1,2,4,3,B
+Tony,100771,Domain Expert,6,39,2.7," 60,011 ", 4.4 ,2,Post Graduate,2,5,3,2,4,4,1,1,5,1,1,4,B
+Kellan,100182,Business Analyst,8,19.5,13.3," 60,403 ", 17.0 ,8,Post Graduate,4,1,5,1,4,4,4,3,2,4,3,4,B
+Carlos,100183,Business Analyst,12,58.5,3.1," 68,249 ", 6.7 ,1,Graduate,2,3,3,5,5,3,3,5,4,4,4,5,A
+Maya,100190,Data Engineer,16,39,6.1," 57,291 ", 7.8 ,1,Post Graduate,3,3,5,1,4,4,2,5,3,3,2,1,B
+Chloe,100773,Data Analyst,8,0,2.4," 36,021 ", 2.4 ,1,Graduate,5,2,5,3,4,2,2,4,1,2,5,1,B
+Carlos,100193,Data Analyst,14,39,4," 44,389 ", 5.1 ,4,Graduate,2,3,2,2,4,3,2,1,2,4,1,1,C
+Alfred,100195,Business Analyst,12,39,9.9," 64,137 ", 11.4 ,1,Post Graduate,2,4,4,5,5,5,4,4,2,3,3,1,B
+Emma,100812,Data Engineer,6,78,2.3," 31,744 ", 3.3 ,1,Graduate,3,3,4,2,4,4,4,3,5,1,5,5,B
+Tara,100816,Data Engineer,6,19.5,2.9," 37,325 ", 4.7 ,1,Graduate,5,4,1,3,4,3,2,5,5,4,3,3,B
+Paige,100200,Data Engineer,16,39,6.6," 40,406 ", 8.1 ,3,Post Graduate,4,5,5,4,5,1,1,1,1,5,1,3,B
+Aston,100201,Data Engineer,8,58.5,2.4," 56,184 ", 4.0 ,1,Graduate,4,5,2,3,5,4,5,2,5,2,3,4,A
+Edward,100202,Data Analyst,6,39,7.3," 43,434 ", 9.2 ,3,Post Graduate,1,1,3,5,4,2,1,4,5,1,5,3,B
+Marcus,100911,Data Engineer,18,39,2.2," 32,934 ", 3.9 ,1,Graduate,1,5,2,3,4,3,1,3,4,4,5,3,B
+Vivian,100205,Software Developer,14,58.5,9," 41,796 ", 11.0 ,1,Post Graduate,3,5,5,5,5,5,1,4,3,5,5,5,A
+Joyce,100206,Data Engineer,12,39,9.3," 50,693 ", 11.2 ,3,Post Graduate,1,4,3,1,4,3,3,1,2,4,2,2,C
+Briony,100214,Data Analyst,14,58.5,2.5," 46,098 ", 4.5 ,1,Post Graduate,3,3,3,3,5,2,4,3,2,5,1,5,B
+Antony,100918,Data Engineer,8,58.5,2.6," 38,044 ", 3.9 ,2,Post Graduate,5,5,3,3,5,5,3,5,4,3,2,1,A
+James,100216,Software Developer,12,58.5,5.4," 46,121 ", 5.4 ,3,Graduate,5,2,5,1,5,2,2,2,5,1,1,2,B
+Aston,100217,Data Analyst,18,117,3.1," 43,953 ", 4.8 ,1,Post Graduate,2,1,5,4,5,5,2,2,2,1,1,5,B
+Gianna,100923,Data Analyst,14,58.5,2.1," 31,732 ", 2.1 ,1,Post Graduate,1,2,4,2,4,1,2,3,3,4,4,3,B
+Ada,100959,Software Developer,8,58.5,2.9," 24,992 ", 4.4 ,2,Post Graduate,3,4,4,2,4,3,1,4,4,5,3,3,B
+Lucia,101016,Data Analyst,10,39,2.7," 30,636 ", 2.7 ,2,Post Graduate,1,2,5,2,4,4,3,1,5,2,5,3,B
+Vincent,100227,Data Analyst,6,39,11," 53,144 ", 13.9 ,2,Graduate,3,1,2,1,5,2,1,5,4,1,4,4,B
+Freddie,100228,Business Analyst,6,39,11.1," 71,336 ", 11.1 ,7,Graduate,4,2,2,3,5,1,4,4,3,4,4,5,B
+Alexia,100230,Business Analyst,16,39,9.1," 68,320 ", 10.7 ,1,Post Graduate,3,4,5,4,5,5,2,5,4,5,1,2,A
+Julia,101033,Domain Expert,10,39,2.8," 56,287 ", 2.8 ,2,Doctorate,3,2,1,1,5,3,5,5,1,3,4,4,B
+Brooke,101052,Data Engineer,8,58.5,2.7," 56,960 ", 2.7 ,2,Graduate,5,2,4,1,5,2,5,2,3,4,4,1,B
+Amber,101079,Data Engineer,8,117,2.1," 36,684 ", 3.3 ,2,Graduate,1,3,1,5,4,2,1,1,5,4,4,3,B
+Kelvin,100240,Business Analyst,6,58.5,6.1," 76,993 ", 9.9 ,6,Post Graduate,2,4,3,2,5,1,1,5,3,1,5,1,B
+Miranda,100242,Data Analyst,8,39,4.1," 48,559 ", 4.1 ,4,Post Graduate,1,2,2,1,4,4,5,2,4,2,4,3,B
+Vivian,101107,Data Engineer,14,0,2.9," 38,008 ", 4.7 ,2,Post Graduate,4,4,4,4,4,4,1,5,3,4,3,5,A
+Sabrina,100244,Business Analyst,20,39,9.1," 51,848 ", 11.8 ,5,Graduate,4,1,1,5,4,3,2,3,4,2,4,4,B
+Chelsea,100245,Data Engineer,6,58.5,3.9," 55,960 ", 6.7 ,1,Graduate,5,4,1,3,5,1,1,3,3,5,3,5,B
+Byron,101111,Data Engineer,10,39,2.6," 30,589 ", 4.0 ,1,Post Graduate,3,1,4,1,5,4,3,5,4,4,5,5,A
+Hailey,101175,Data Engineer,6,78,2.1," 39,634 ", 3.3 ,1,Graduate,3,5,3,1,5,5,5,1,2,2,3,2,B
+Catherine,101180,Data Analyst,8,58.5,2.9," 52,105 ", 5.7 ,1,Post Graduate,3,4,4,4,4,3,5,1,5,3,1,1,B
+Anna,100254,Chief Data Scientist,6,58.5,25.1," 157,656 ", 30.7 ,3,Post Graduate,5,3,4,5,5,3,3,2,5,2,2,2,B
+Carl,100258,Domain Expert,12,78,8.3," 57,080 ", 8.3 ,3,Post Graduate,5,2,5,1,5,5,3,3,1,5,2,2,B
+Sydney,101210,Data Analyst,12,39,2.4," 34,828 ", 4.0 ,1,Post Graduate,1,3,1,5,4,5,5,1,3,4,3,5,B
+Myra,100260,Data Analyst,10,39,8.8," 59,024 ", 10.2 ,8,Post Graduate,5,5,5,1,5,1,2,5,3,3,1,1,B
+Patrick,101219,Data Engineer,8,58.5,2.7," 36,041 ", 2.7 ,1,Post Graduate,3,2,3,1,4,2,2,1,1,1,5,4,C
+Paige,100264,Data Architect,18,19.5,9.8," 81,270 ", 12.2 ,4,Doctorate,4,1,5,1,5,3,5,2,1,2,5,1,B
+Cadie,101258,Data Engineer,6,78,2.3," 30,153 ", 4.3 ,1,Graduate,1,3,5,2,4,1,5,5,1,2,3,1,B
+Lucy,101269,Data Analyst,6,39,2.8," 35,278 ", 4.6 ,1,Post Graduate,1,3,1,4,4,1,5,1,1,5,1,2,C
+April,100270,Data Scientist,10,97.5,6.7," 70,842 ", 9.5 ,2,Graduate,5,5,3,3,5,1,1,5,3,1,5,4,B
+Alisa,100271,Data Scientist,8,58.5,2.3," 75,155 ", 4.8 ,2,Graduate,1,1,4,4,5,2,2,2,4,3,3,3,B
+Melissa,101273,Software Developer,8,78,2.1," 23,173 ", 3.5 ,2,Post Graduate,4,4,2,4,4,4,5,3,2,1,3,1,B
+Darcy,101364,Software Developer,8,78,2.7," 29,858 ", 4.5 ,1,Post Graduate,3,4,2,5,5,2,1,5,2,1,4,5,B
+Samantha,100286,Data Engineer,8,39,9.8," 42,174 ", 12.4 ,8,Post Graduate,3,3,3,1,5,1,1,2,2,1,4,3,C
+Abigail,100287,Domain Expert,8,78,4.9," 81,776 ", 8.8 ,4,Post Graduate,5,1,4,1,5,1,4,3,2,2,4,2,B
+Owen,101379,Software Developer,8,58.5,2.5," 32,816 ", 4.5 ,2,Post Graduate,3,3,1,1,5,1,3,1,2,4,3,3,C
+Lily,101427,Software Developer,6,58.5,2.3," 26,014 ", 3.4 ,1,Graduate,5,5,3,4,5,2,3,5,3,3,5,1,A
+Kimberly,101433,Data Analyst,6,58.5,2.2," 34,858 ", 3.5 ,2,Post Graduate,4,4,4,2,5,4,4,1,3,3,1,3,B
+Madaline,100298,Data Architect,12,58.5,2.1," 72,551 ", 4.0 ,1,Doctorate,2,1,5,3,5,3,2,4,3,2,3,5,B
+Charlie,101481,Business Analyst,6,78,2.7," 56,181 ", 3.7 ,1,Post Graduate,1,1,3,1,4,2,3,5,2,4,5,4,B
+Max,101492,Software Developer,8,58.5,2.8," 28,326 ", 4.1 ,2,Graduate,4,5,2,3,5,1,5,3,5,4,4,2,B
+Alisa,100304,Data Engineer,10,58.5,12.8," 60,767 ", 16.2 ,5,Graduate,1,1,5,5,5,3,1,5,5,1,4,2,B
+Heather,100305,Data Analyst,16,58.5,4.5," 37,696 ", 4.5 ,2,Post Graduate,1,2,5,5,4,5,4,4,3,2,5,5,A
+Abigail,100306,Chief Data Scientist,8,19.5,11.6," 148,842 ", 17.4 ,3,Post Graduate,2,4,1,5,4,2,3,4,1,4,4,3,B
+Miley,100309,Data Analyst,12,117,2.6," 59,837 ", 2.6 ,2,Post Graduate,1,2,3,1,4,3,5,5,3,3,2,5,B
+Madaline,100311,Software Developer,12,39,10.7," 52,625 ", 10.7 ,8,Graduate,4,2,2,3,5,3,2,4,1,4,2,4,B
+Harold,101569,Data Engineer,6,39,2.3," 34,438 ", 4.1 ,1,Graduate,3,4,1,2,4,4,5,2,4,1,3,3,B
+Michael,101577,Data Analyst,8,78,2.2," 35,019 ", 2.2 ,2,Graduate,1,2,4,1,5,3,1,4,3,1,5,2,C
+Aiden,101601,Data Engineer,12,97.5,2.6," 31,696 ", 2.6 ,1,Post Graduate,5,2,2,2,5,3,4,1,2,4,5,5,B
+Oliver,101692,Data Engineer,6,39,2.3," 36,414 ", 2.3 ,2,Post Graduate,5,2,3,3,4,3,5,4,5,2,5,4,A
+Emily,100321,Database Administrator,12,39,3.6," 42,056 ", 3.6 ,3,Post Graduate,2,2,4,2,4,2,3,4,1,2,4,2,C
+Ryan,101731,Business Analyst,6,58.5,2," 58,656 ", 4.2 ,2,Post Graduate,4,4,2,5,4,5,2,2,3,4,3,2,B
+Samantha,100327,Data Architect,16,58.5,11," 75,674 ", 13.8 ,8,Doctorate,4,5,4,2,4,2,5,5,3,2,2,5,B
+Julian,100328,Data Engineer,14,58.5,10.1," 41,832 ", 12.4 ,5,Graduate,1,5,1,5,5,2,4,1,4,1,4,2,B
+Adrian,100329,Data Architect,12,39,10.1," 88,718 ", 12.4 ,6,Post Graduate,1,1,1,4,4,3,2,5,3,3,5,4,B
+Kellan,101761,Business Analyst,8,39,2.6," 96,161 ", 6.0 ,2,Doctorate,3,5,4,5,5,3,4,1,4,5,2,4,A
+Preston,101767,Data Analyst,10,78,2.7," 38,715 ", 3.7 ,2,Graduate,3,5,4,3,4,1,4,5,2,1,4,4,B
+Garry,100332,Data Engineer,8,19.5,4.4," 63,254 ", 8.2 ,2,Graduate,2,3,1,4,5,2,5,4,2,1,1,1,C
+Maximilian,101780,Software Developer,8,58.5,2.1," 31,568 ", 3.3 ,1,Graduate,3,4,2,4,5,1,4,3,1,1,1,3,C
+Wilson,101868,Data Analyst,18,58.5,2.1," 48,739 ", 3.5 ,1,Post Graduate,1,4,2,2,5,4,4,3,4,5,3,3,B
+Maximilian,100337,Chief Data Scientist,6,58.5,3.8," 146,910 ", 11.0 ,3,Post Graduate,3,5,3,2,4,4,4,5,5,4,1,4,A
+Frederick,101876,Software Developer,8,58.5,2.3," 26,537 ", 2.3 ,2,Graduate,1,2,4,2,4,1,1,5,2,4,1,2,C
+Adrian,100018,Data Engineer,6,39,3.9," 39,794 ", 3.9 ,2,Graduate,4,2,2,5,5,2,3,1,4,2,5,2,B
+Lucy,100343,Domain Expert,20,19.5,20.6," 57,963 ", 22.3 ,7,Doctorate,4,1,5,1,5,5,4,3,1,1,1,4,B
+Tara,100038,Data Architect,6,39,3.5," 77,629 ", 5.8 ,3,Graduate,5,1,3,1,4,2,3,3,1,1,4,5,B
+Victoria,100352,Chief Data Scientist,14,78,22.7," 141,360 ", 22.7 ,8,Post Graduate,5,2,5,1,5,2,4,3,4,1,3,2,B
+Amber,100065,Data Engineer,8,58.5,3.3," 57,750 ", 5.4 ,3,Post Graduate,3,4,1,4,4,1,3,2,1,1,3,4,C
+Elise,100359,Data Engineer,14,58.5,6.7," 65,692 ", 8.8 ,5,Graduate,2,5,2,4,5,1,2,2,4,2,5,4,B
+Ned,100361,Business Analyst,12,0,9.6," 61,849 ", 9.6 ,5,Post Graduate,2,2,2,2,5,1,5,5,5,4,4,4,B
+Richard,100174,Business Analyst,6,58.5,3.7," 59,954 ", 4.9 ,1,Graduate,3,3,3,5,5,2,2,5,1,1,5,1,B
+Lucy,100366,Business Analyst,14,39,1.1," 78,287 ", 1.1 ,1,Doctorate,1,2,4,4,4,4,5,5,4,3,2,2,B
+Violet,100367,Domain Expert,16,39,10.1," 65,774 ", 12.3 ,3,Doctorate,5,4,1,2,4,3,3,5,3,4,4,3,B
+Rosie,100372,Domain Expert,8,39,22," 159,024 ", 28.5 ,1,Graduate,1,3,2,1,4,3,5,3,4,4,4,2,B
+John,100218,Data Analyst,12,19.5,3.5," 44,730 ", 5.4 ,3,Post Graduate,1,3,1,5,5,2,4,3,2,5,5,5,B
+Sarah,100378,Business Analyst,8,97.5,6.6," 76,613 ", 10.0 ,1,Post Graduate,5,5,1,1,4,5,4,4,4,2,4,3,B
+Alberta,100379,Data Analyst,12,78,4.6," 38,059 ", 6.6 ,2,Post Graduate,4,1,3,2,4,5,2,1,5,5,4,2,B
+Florrie,100380,Chief Data Scientist,12,39,6.2," 160,286 ", 16.2 ,4,Post Graduate,2,2,3,2,4,4,3,4,3,2,2,5,B
+Maria,100382,Business Analyst,18,58.5,9.2," 66,044 ", 11.6 ,6,Graduate,1,5,2,3,4,2,1,5,1,2,5,5,B
+Richard,100384,Data Scientist,14,97.5,7.4," 75,377 ", 10.8 ,3,Post Graduate,5,1,3,3,4,5,3,3,2,5,1,4,B
+Alina,100385,Chief Data Scientist,8,78,11.5," 225,575 ", 14.3 ,7,Doctorate,1,4,1,5,5,1,3,1,3,2,4,4,B
+Miley,100386,Chief Data Scientist,10,78,6.7," 207,193 ", 16.6 ,3,Doctorate,4,5,1,4,4,5,5,1,3,5,3,4,A
+Belinda,100387,Business Analyst,20,58.5,8.3," 57,819 ", 8.3 ,3,Graduate,1,2,4,1,5,3,1,2,4,1,2,3,C
+Dexter,100388,Business Analyst,12,58.5,11.4," 53,660 ", 11.4 ,2,Post Graduate,2,2,2,1,4,1,5,3,2,5,5,3,B
+Ned,100389,Data Engineer,14,78,11.8," 63,806 ", 13.2 ,6,Graduate,5,4,5,3,4,2,4,4,1,4,4,4,A
+Steven,100316,Data Engineer,10,58.5,3.6," 40,772 ", 4.8 ,2,Post Graduate,5,5,3,1,4,1,3,1,3,2,1,2,C
+Stuart,100338,Data Analyst,8,39,3.9," 47,582 ", 5.6 ,1,Graduate,3,3,3,5,4,4,4,5,4,1,4,4,A
+Evelyn,100393,Domain Expert,8,39,3.4," 67,693 ", 6.6 ,1,Post Graduate,5,4,5,2,4,4,1,4,1,2,2,4,B
+Victoria,100399,Software Developer,6,97.5,3.4," 32,863 ", 5.0 ,2,Graduate,4,4,4,2,5,4,5,2,2,3,3,1,B
+James,100395,Data Analyst,16,58.5,6," 39,002 ", 6.0 ,2,Graduate,4,2,1,5,4,4,1,5,2,5,1,3,B
+Wright,100396,Chief Data Scientist,6,78,4.1," 219,931 ", 19.0 ,3,Doctorate,4,4,1,1,4,3,4,2,4,5,1,3,B
+Hawkins,100397,Data Analyst,6,39,9.3," 52,847 ", 11.6 ,5,Post Graduate,1,3,4,5,5,1,4,4,1,5,4,3,B
+Alexander,100475,Business Analyst,6,39,3.4," 55,804 ", 5.0 ,3,Graduate,2,1,5,1,5,2,4,4,1,3,5,1,B
+Armstrong,100538,Data Engineer,8,97.5,3.3," 47,498 ", 3.3 ,3,Graduate,3,2,3,3,5,3,5,4,3,1,4,3,B
+Perkins,100555,Software Developer,10,58.5,3.6," 27,702 ", 4.7 ,2,Graduate,5,4,4,3,5,1,2,1,3,2,4,3,B
+Tucker,100406,Business Analyst,10,58.5,12.3," 94,500 ", 15.3 ,2,Post Graduate,4,3,1,1,4,2,3,1,3,2,5,1,C
+Hunt,100407,Data Engineer,12,39,2.6," 43,456 ", 2.6 ,1,Graduate,5,2,5,1,4,5,5,4,1,3,5,3,B
+Richardson,100408,Data Scientist,12,58.5,5.7," 64,595 ", 7.8 ,1,Post Graduate,3,3,5,4,5,2,1,4,1,2,5,5,B
+Chapman,100412,Domain Expert,14,39,10," 66,704 ", 10.0 ,5,Post Graduate,4,2,5,3,5,4,3,2,4,1,1,2,B
+Alexander,100416,Business Analyst,6,58.5,9.1," 81,645 ", 10.4 ,3,Doctorate,2,1,3,5,5,3,1,2,5,5,5,3,B
+Johnston,100417,Domain Expert,12,78,19.9," 113,270 ", 19.9 ,4,Doctorate,1,2,2,2,5,5,1,2,2,3,2,4,C
+Davis,100565,Data Analyst,10,39,3.1," 40,000 ", 4.7 ,3,Post Graduate,3,5,1,4,5,5,5,2,2,2,5,1,B
+Barnes,100421,Chief Data Scientist,12,39,11.7," 142,115 ", 11.7 ,8,Post Graduate,5,2,3,3,4,5,5,3,5,1,4,2,B
+Bennett,100593,Data Engineer,10,58.5,3.5," 45,884 ", 5.6 ,2,Graduate,1,1,3,4,5,4,1,4,1,3,3,5,B
+Allen,100632,Software Developer,8,58.5,3.2," 28,279 ", 5.1 ,3,Graduate,2,5,3,2,5,2,3,1,3,5,4,3,B
+Alexander,100424,Database Administrator,6,19.5,3," 75,530 ", 5.2 ,1,Post Graduate,4,5,1,1,5,2,5,1,1,4,3,3,B
+Jones,100425,Data Engineer,12,39,12.1," 61,389 ", 13.8 ,1,Post Graduate,5,3,4,1,5,2,5,3,1,2,1,1,B
+Turner,100431,Domain Expert,6,39,8.2," 164,539 ", 17.0 ,3,Graduate,1,5,2,2,5,2,2,4,1,2,4,5,B
+Mason,100720,Business Analyst,8,58.5,3.4," 53,932 ", 5.2 ,1,Post Graduate,3,5,3,3,5,4,1,2,2,3,4,4,B
+Roberts,100732,Business Analyst,8,19.5,3.1," 63,687 ", 6.2 ,1,Graduate,3,5,2,1,5,1,3,1,3,5,1,5,B
+Owens,100752,Data Analyst,6,39,3.6," 32,510 ", 5.0 ,3,Post Graduate,4,4,4,2,4,5,3,1,3,5,3,5,B
+Ellis,100438,Business Analyst,6,58.5,8.6," 88,927 ", 8.6 ,4,Doctorate,4,2,3,2,5,3,2,3,3,5,4,3,B
+Barrett,100439,Data Analyst,10,0,8.9," 59,564 ", 11.4 ,4,Graduate,2,1,3,5,4,1,5,3,2,3,5,4,B
+Wilson,100766,Software Developer,8,39,3.6," 27,066 ", 5.2 ,1,Graduate,1,3,3,5,4,1,1,4,3,1,3,4,B
+Clark,100442,Data Scientist,18,39,11.5," 105,375 ", 14.6 ,8,Post Graduate,1,1,5,1,5,4,5,2,1,3,3,3,B
+Morgan,100828,Data Analyst,12,58.5,3.7," 51,634 ", 5.4 ,1,Post Graduate,2,1,2,2,5,2,3,4,5,3,3,1,B
+Carter,100922,Software Developer,8,58.5,3.8," 24,085 ", 3.8 ,1,Graduate,3,2,2,5,4,2,4,5,5,1,1,4,B
+Kelly,100447,Chief Data Scientist,6,39,4.9," 215,631 ", 19.7 ,1,Doctorate,1,5,1,4,5,4,3,4,3,4,2,3,B
+Cunningham,100448,Data Engineer,6,58.5,10.2," 61,944 ", 12.1 ,8,Graduate,1,1,2,1,5,1,1,1,5,4,4,3,C
+Douglas,100449,Business Analyst,8,0,6.2," 74,811 ", 10.1 ,5,Post Graduate,5,5,4,4,5,3,4,3,4,5,2,4,A
+Jones,100932,Data Engineer,16,39,3.1," 38,326 ", 4.3 ,3,Post Graduate,3,5,1,1,4,1,3,5,1,2,3,3,C
+Grant,100451,Domain Expert,10,19.5,2.5," 117,655 ", 6.4 ,1,Graduate,1,3,5,4,4,4,5,5,3,4,4,3,A
+Riley,100452,Data Analyst,8,58.5,11.6," 43,562 ", 11.6 ,7,Post Graduate,5,2,1,1,4,2,3,5,2,2,5,3,B
+Montgomery,100453,Business Analyst,16,39,5.3," 87,866 ", 5.3 ,5,Post Graduate,4,2,1,1,5,4,1,3,2,5,4,3,B
+Cooper,101001,Data Engineer,8,39,3.9," 33,123 ", 3.9 ,3,Graduate,3,2,4,2,4,5,3,3,2,1,2,1,C
+Stewart,100455,Data Engineer,12,39,4.9," 46,932 ", 4.9 ,1,Graduate,3,2,1,1,5,5,4,1,4,2,5,2,B
+Myers,100456,Business Analyst,8,39,11.7," 72,088 ", 14.1 ,4,Post Graduate,1,5,2,3,4,5,3,4,4,5,1,3,B
+Elliott,100458,Business Analyst,12,58.5,9.4," 73,220 ", 11.8 ,6,Post Graduate,5,5,1,1,4,3,1,2,3,1,3,5,B
+Murphy,100460,Data Scientist,10,39,7.2," 74,788 ", 7.2 ,1,Post Graduate,4,2,5,5,4,2,4,1,1,1,4,4,B
+Hall,100461,Chief Data Scientist,8,58.5,12.9," 135,624 ", 17.0 ,7,Post Graduate,3,4,2,4,4,4,4,3,3,4,4,1,B
+West,100462,Data Scientist,8,39,12," 84,166 ", 14.4 ,4,Graduate,5,5,2,1,4,5,3,3,4,5,4,1,B
+Casey,100463,Business Analyst,8,39,8.9," 97,422 ", 10.9 ,1,Doctorate,1,5,5,1,4,1,3,1,3,3,5,1,B
+Warren,100464,Data Scientist,8,97.5,17.6," 95,384 ", 21.8 ,5,Doctorate,3,5,3,2,4,1,3,4,1,4,4,2,B
+West,100466,Data Scientist,10,58.5,6.2," 71,076 ", 6.2 ,6,Doctorate,4,2,3,4,4,4,2,4,2,4,5,3,B
+Casey,100467,Software Developer,14,58.5,1.8," 35,066 ", 3.7 ,1,Graduate,4,3,4,2,5,1,5,4,4,3,1,3,B
+Payne,100468,Chief Data Scientist,8,39,2.8," 188,435 ", 14.5 ,2,Post Graduate,4,3,2,1,5,3,2,3,2,1,4,1,C
+Stevens,101025,Data Scientist,8,97.5,3.9," 58,951 ", 6.4 ,3,Graduate,5,4,3,1,4,2,1,4,3,3,4,1,B
+Brown,100474,Data Scientist,8,39,8.3," 70,392 ", 10.6 ,7,Graduate,2,4,4,3,4,1,5,3,4,2,1,5,B
+Hamilton,101037,Business Analyst,12,117,3.6," 58,551 ", 5.2 ,3,Post Graduate,3,3,1,2,5,2,5,5,2,4,3,4,B
+Myers,100476,Business Analyst,12,58.5,9.6," 62,404 ", 11.1 ,2,Post Graduate,5,1,3,5,5,4,2,5,3,3,3,4,B
+Morrison,100477,Domain Expert,18,78,2.3," 79,901 ", 4.1 ,1,Graduate,5,5,1,1,4,3,5,3,4,2,2,3,B
+Cameron,101077,Software Developer,8,58.5,3.3," 27,372 ", 4.8 ,2,Post Graduate,1,4,5,5,4,4,5,5,1,4,3,3,A
+Campbell,100479,Business Analyst,10,117,2," 78,392 ", 5.1 ,2,Graduate,2,3,1,4,5,3,3,2,2,2,1,3,C
+Perkins,100482,Domain Expert,6,39,4.4," 79,594 ", 6.8 ,1,Post Graduate,5,1,1,1,4,5,1,1,1,5,1,2,C
+Ross,100484,Software Developer,18,58.5,4.9," 30,753 ", 6.7 ,3,Post Graduate,5,5,2,2,4,5,2,1,2,1,3,3,B
+Adams,101108,Data Analyst,14,0,3.2," 37,254 ", 3.2 ,2,Post Graduate,5,2,1,5,4,1,3,3,4,3,4,2,B
+Stewart,100486,Data Engineer,14,58.5,6.7," 40,676 ", 9.6 ,4,Graduate,1,3,4,5,5,5,4,5,2,1,3,2,B
+Nelson,101135,Software Developer,6,78,3.9," 32,887 ", 3.9 ,2,Post Graduate,5,2,5,1,4,2,1,1,3,2,4,2,C
+Roberts,100491,Domain Expert,10,39,5.7," 123,676 ", 11.8 ,1,Graduate,3,5,3,4,5,1,4,1,2,4,2,2,B
+Warren,101160,Data Engineer,6,97.5,3.3," 30,753 ", 5.0 ,2,Graduate,2,1,5,5,4,4,5,4,4,1,1,5,B
+Andrews,101198,Data Engineer,6,39,3.5," 35,738 ", 3.5 ,1,Post Graduate,3,2,2,4,4,3,3,5,2,4,2,4,B
+Barrett,100496,Domain Expert,14,78,2.3," 77,062 ", 2.3 ,2,Post Graduate,5,2,4,5,4,4,5,1,4,2,4,1,B
+Carter,100497,Data Engineer,6,39,6.5," 44,965 ", 7.8 ,5,Post Graduate,2,4,2,5,5,3,5,4,3,5,4,2,A
+Wright,100498,Business Analyst,10,19.5,8.1," 61,897 ", 8.1 ,2,Post Graduate,5,2,3,5,5,2,4,5,2,1,5,3,B
+Campbell,100499,Domain Expert,18,39,6.3," 129,201 ", 6.3 ,6,Graduate,1,2,2,1,5,4,2,5,1,5,5,5,B
+Carter,101279,Data Engineer,14,39,3.3," 30,930 ", 3.3 ,1,Graduate,1,2,3,3,4,2,3,3,4,3,1,1,C
+Cole,101464,Data Engineer,8,39,3.8," 43,856 ", 3.8 ,2,Graduate,3,2,4,1,5,5,5,1,5,1,5,1,B
+Scott,101466,Business Analyst,6,58.5,3.8," 64,642 ", 3.8 ,2,Graduate,4,2,5,1,4,1,1,4,2,4,5,5,B
+Higgins,100508,Software Developer,12,58.5,2.9," 29,175 ", 4.1 ,1,Graduate,2,5,4,5,5,2,3,4,3,5,2,5,A
+Gray,100510,Data Analyst,16,39,7.5," 46,551 ", 7.5 ,5,Post Graduate,1,2,4,4,5,4,3,4,5,4,1,2,B
+Johnson,100513,Business Analyst,8,39,11.1," 89,504 ", 14.9 ,6,Post Graduate,4,1,3,3,5,3,1,4,5,1,2,3,B
+Cole,100514,Data Analyst,18,78,2.5," 36,924 ", 3.9 ,2,Post Graduate,4,4,1,1,4,1,4,2,1,2,2,1,C
+Grant,101479,Business Analyst,10,39,3.5," 62,462 ", 5.3 ,3,Post Graduate,4,3,5,2,5,2,4,3,1,5,3,2,B
+Anderson,101560,Business Analyst,8,117,3.2," 75,318 ", 6.2 ,1,Doctorate,4,4,3,4,4,4,5,5,3,5,4,5,A
+Farrell,101645,Business Analyst,8,39,3.9," 64,100 ", 3.9 ,3,Graduate,2,2,2,2,5,5,1,3,1,1,2,2,C
+Hill,100520,Chief Data Scientist,6,58.5,26.7," 168,922 ", 35.2 ,7,Post Graduate,3,4,5,4,4,1,4,1,4,2,1,3,B
+Hall,100521,Data Engineer,16,58.5,2.7," 40,629 ", 2.7 ,1,Graduate,4,2,3,1,5,5,2,5,4,5,4,2,B
+Douglas,100522,Chief Data Scientist,6,78,5.5," 228,662 ", 15.5 ,1,Doctorate,3,2,2,5,5,2,1,4,4,2,1,3,B
+Harris,100523,Business Analyst,10,58.5,4.4," 77,037 ", 7.6 ,4,Post Graduate,5,5,5,2,5,2,2,3,3,3,2,4,B
+Stewart,101674,Data Engineer,10,39,3.3," 30,483 ", 4.7 ,2,Graduate,5,1,5,4,5,2,2,5,3,4,5,1,B
+Smith,100529,Data Analyst,10,39,14.3," 52,423 ", 14.3 ,8,Post Graduate,1,2,2,5,5,3,2,4,3,2,2,4,B
+Ryan,101733,Business Analyst,8,58.5,3.9," 72,278 ", 3.9 ,1,Graduate,1,2,4,1,4,1,3,3,1,5,3,1,C
+Armstrong,100534,Business Analyst,10,39,11.3," 98,884 ", 16.0 ,7,Post Graduate,1,1,2,4,4,1,5,3,5,5,2,5,B
+Holmes,100536,Data Engineer,6,39,11.4," 53,707 ", 11.4 ,8,Graduate,4,2,4,4,4,4,2,3,3,5,5,4,A
+Mason,101752,Software Developer,8,58.5,3.9," 32,521 ", 5.1 ,1,Graduate,4,4,4,5,5,3,4,4,4,1,2,3,B
+Elliott,100543,Data Scientist,8,78,6.5," 93,899 ", 6.5 ,4,Graduate,4,2,3,2,4,2,2,5,1,3,3,2,B
+Bennett,100547,Data Analyst,6,58.5,6.4," 53,683 ", 8.8 ,3,Graduate,4,3,1,4,5,5,3,1,2,5,5,3,B
+Payne,100548,Data Scientist,14,39,6," 71,771 ", 9.4 ,4,Post Graduate,3,1,2,2,5,3,3,3,4,4,4,5,B
+Anderson,101903,Domain Expert,10,78,3.5," 59,304 ", 4.7 ,2,Post Graduate,2,5,3,3,5,4,2,3,3,4,3,1,B
+Murphy,100047,Software Developer,8,39,4.1," 40,170 ", 4.1 ,2,Graduate,4,2,3,2,4,3,1,4,5,3,4,5,B
+Williams,100088,Data Analyst,8,39,4.6," 38,768 ", 6.2 ,3,Post Graduate,2,3,3,2,5,4,5,5,2,4,4,4,B
+Mitchell,100564,Chief Data Scientist,12,39,11.5," 140,632 ", 18.8 ,1,Post Graduate,4,1,3,1,5,3,1,4,5,1,4,2,B
+Henderson,100197,Data Analyst,8,58.5,4.2," 36,235 ", 5.9 ,3,Post Graduate,1,5,5,3,5,1,3,3,2,3,4,2,B
+Grant,100567,Business Analyst,6,58.5,10.6," 99,120 ", 10.6 ,2,Doctorate,4,2,1,4,4,1,3,3,3,4,4,2,B
+Nelson,100247,Data Analyst,10,58.5,4.5," 38,532 ", 4.5 ,4,Post Graduate,4,2,5,2,4,4,5,4,5,5,1,5,A
+Fowler,100249,Data Engineer,10,39,4.1," 55,041 ", 5.8 ,2,Post Graduate,3,4,4,1,5,2,5,5,4,1,3,5,B
+Robinson,100575,Chief Data Scientist,8,39,4.1," 210,457 ", 14.1 ,4,Doctorate,5,2,4,2,4,3,3,3,4,4,3,1,B
+Nelson,100577,Data Engineer,10,39,6.5," 49,843 ", 8.3 ,4,Graduate,3,4,4,2,4,5,4,2,5,1,2,3,B
+Craig,100578,Data Engineer,6,58.5,2.6," 44,540 ", 4.8 ,2,Graduate,3,5,4,3,4,3,1,5,3,4,1,1,B
+Miller,100581,Data Scientist,20,97.5,14.2," 125,467 ", 19.1 ,2,Doctorate,1,4,5,2,4,1,1,3,5,5,2,2,B
+Cunningham,100331,Data Engineer,8,39,4.6," 60,556 ", 4.6 ,1,Graduate,4,2,5,5,4,3,2,5,5,1,1,1,B
+Kelly,100585,Software Developer,8,58.5,4.6," 35,149 ", 5.8 ,3,Graduate,5,3,3,4,5,5,4,5,4,4,3,4,A
+Armstrong,100586,Domain Expert,6,39,9.4," 89,929 ", 12.2 ,4,Doctorate,3,5,5,1,5,1,2,4,3,5,1,5,B
+Myers,100587,Domain Expert,6,39,2.8," 115,757 ", 5.3 ,2,Graduate,5,4,5,5,4,4,1,3,4,1,1,4,B
+Chapman,100394,Data Engineer,8,39,4.8," 37,962 ", 6.4 ,1,Graduate,2,1,5,5,5,2,2,1,2,1,3,3,C
+Barnes,100599,Business Analyst,8,58.5,15.5," 73,409 ", 19.2 ,2,Graduate,5,3,5,2,5,1,4,5,3,4,5,4,A
+Richardson,100440,Data Analyst,8,78,4.8," 40,816 ", 6.0 ,3,Post Graduate,5,5,3,2,4,3,4,3,5,4,2,3,B
+Cooper,100601,Data Scientist,10,58.5,21.2," 155,973 ", 23.8 ,3,Graduate,4,1,1,5,5,5,1,3,5,5,5,2,B
+Nelson,100602,Data Engineer,6,58.5,9.8," 44,246 ", 9.8 ,2,Graduate,4,2,3,5,5,5,5,5,2,5,1,3,A
+Alexander,100604,Business Analyst,8,39,7," 77,556 ", 9.4 ,1,Graduate,3,1,2,3,4,1,5,1,5,4,1,4,B
+Scott,100605,Data Scientist,16,97.5,11.7," 87,266 ", 11.7 ,5,Post Graduate,3,2,1,3,4,3,2,4,2,5,1,4,B
+Allen,100606,Business Analyst,14,58.5,9.5," 56,617 ", 9.5 ,1,Graduate,3,2,1,5,5,1,3,3,4,4,4,3,B
+Turner,100612,Chief Data Scientist,14,39,7.4," 190,697 ", 12.8 ,6,Post Graduate,4,5,1,1,5,5,1,4,3,4,1,5,B
+Grant,100478,Software Developer,6,58.5,4.5," 25,617 ", 5.6 ,1,Graduate,2,5,2,2,5,4,2,2,2,4,4,2,B
+Hill,100616,Domain Expert,12,58.5,9.1," 80,254 ", 11.6 ,6,Graduate,2,4,5,2,4,4,2,3,1,4,4,3,B
+Johnston,100650,Business Analyst,12,39,4.3," 49,877 ", 4.3 ,2,Graduate,5,2,1,3,5,4,5,2,3,3,3,1,B
+Murray,100620,Business Analyst,10,58.5,6.6," 57,253 ", 9.4 ,3,Post Graduate,5,4,5,3,5,1,3,3,1,3,4,1,B
+Barrett,100686,Data Engineer,8,39,4.6," 31,332 ", 4.6 ,3,Graduate,2,2,5,1,5,3,5,1,1,1,4,5,B
+Dixon,100805,Software Developer,10,19.5,4.7," 30,306 ", 6.1 ,4,Post Graduate,3,4,5,1,4,2,1,3,3,5,2,5,B
+Anderson,100623,Data Scientist,12,58.5,7.3," 88,268 ", 8.3 ,4,Graduate,3,3,5,3,5,4,1,3,4,1,2,1,B
+Turner,100624,Domain Expert,6,58.5,3.1," 124,040 ", 7.4 ,1,Graduate,3,4,4,5,5,4,2,4,1,5,1,3,B
+Bailey,100819,Business Analyst,10,58.5,4.4," 62,733 ", 6.2 ,3,Graduate,1,5,2,3,4,1,3,3,2,5,1,3,B
+Smith,100847,Database Administrator,14,19.5,4.8," 44,033 ", 4.8 ,1,Post Graduate,5,2,5,5,5,4,5,4,5,1,3,4,A
+Murray,100634,Domain Expert,14,78,2.1," 115,757 ", 7.6 ,2,Graduate,4,1,2,3,5,4,5,3,2,5,4,1,B
+Richards,100635,Data Scientist,6,39,7.5," 75,965 ", 8.9 ,7,Graduate,5,3,4,2,5,1,3,5,5,2,4,4,B
+Kelly,100638,Chief Data Scientist,12,78,30.3," 229,793 ", 30.3 ,4,Doctorate,2,2,3,2,5,5,2,4,2,3,2,3,B
+Rogers,100641,Business Analyst,14,97.5,6.7," 73,903 ", 6.7 ,6,Graduate,1,2,2,2,5,5,5,2,1,3,1,1,C
+Russell,100874,Data Engineer,18,39,4.1," 33,204 ", 5.8 ,4,Post Graduate,5,5,3,2,5,1,1,1,5,1,3,5,B
+Barrett,100648,Software Developer,12,39,2.7," 33,955 ", 4.7 ,2,Graduate,1,5,3,2,5,5,1,5,2,5,3,4,B
+Barnes,100649,Data Analyst,8,58.5,7.9," 42,678 ", 10.1 ,2,Post Graduate,1,1,1,4,5,4,5,4,4,4,5,3,B
+Ferguson,100896,Software Developer,14,58.5,4.8," 32,993 ", 5.9 ,4,Post Graduate,4,5,2,4,5,4,4,2,3,3,4,4,A
+Richardson,100652,Data Engineer,8,58.5,4.7," 43,373 ", 4.7 ,4,Post Graduate,4,2,4,1,4,1,1,5,4,1,4,5,B
+Warren,100653,Business Analyst,16,78,8.7," 64,336 ", 11.0 ,6,Graduate,5,3,4,4,5,1,4,3,1,1,4,3,B
+Phillips,100661,Chief Data Scientist,8,58.5,2.1," 195,917 ", 17.5 ,1,Post Graduate,2,5,2,2,4,5,5,4,3,2,5,5,A
+Kelly,100665,Database Administrator,6,19.5,3.6," 70,522 ", 5.0 ,3,Graduate,1,1,2,3,4,5,4,2,5,4,4,3,B
+Morrison,100666,Software Developer,12,58.5,9.4," 30,389 ", 10.9 ,2,Graduate,4,4,3,3,5,5,4,2,3,4,1,1,B
+Brown,100926,Data Scientist,14,58.5,4.9," 59,147 ", 7.7 ,4,Post Graduate,1,5,1,1,4,3,1,2,1,2,4,2,C
+Murray,100669,Software Developer,6,39,4.1," 40,616 ", 7.0 ,3,Graduate,5,5,3,5,5,4,5,3,2,5,4,3,A
+Perkins,100677,Business Analyst,6,58.5,7," 83,707 ", 11.8 ,1,Post Graduate,1,1,1,3,4,2,5,1,4,4,3,3,C
+Barrett,100679,Data Scientist,6,39,7.2," 74,492 ", 8.3 ,2,Post Graduate,2,5,1,3,5,4,5,2,4,2,3,2,B
+Adams,100682,Business Analyst,14,39,15.4," 98,754 ", 20.4 ,5,Post Graduate,5,1,2,3,4,3,3,4,5,5,4,1,B
+Grant,100974,Software Developer,10,97.5,4.1," 25,415 ", 5.3 ,2,Post Graduate,5,1,5,5,4,1,4,3,3,1,4,2,B
+Miller,100995,Data Analyst,12,78,4.2," 40,676 ", 6.2 ,1,Post Graduate,1,1,2,2,5,5,5,2,5,4,5,1,B
+Dixon,100689,Data Scientist,10,39,11.6," 111,162 ", 11.6 ,7,Post Graduate,2,2,1,4,5,4,4,3,2,4,3,5,B
+Ellis,101017,Data Engineer,12,58.5,4.5," 38,538 ", 4.5 ,3,Graduate,3,2,2,1,4,5,2,5,1,4,1,1,C
+Morgan,100691,Data Scientist,8,58.5,18.1," 78,311 ", 21.3 ,3,Graduate,2,3,2,5,5,1,3,3,5,2,5,4,B
+Alexander,100692,Domain Expert,18,39,14," 91,025 ", 15.3 ,6,Graduate,4,1,5,1,5,1,4,3,5,2,2,5,B
+Walker,100699,Data Scientist,6,39,4.8," 104,245 ", 9.5 ,1,Doctorate,3,4,1,4,4,4,4,2,5,2,5,3,B
+Wright,101053,Data Analyst,8,39,4.9," 34,062 ", 4.9 ,1,Post Graduate,2,2,1,2,5,5,4,3,5,5,3,2,B
+Henderson,101249,Data Analyst,10,97.5,4.8," 44,305 ", 6.0 ,1,Post Graduate,4,4,1,5,4,5,3,3,1,3,2,2,B
+Bennett,100707,Business Analyst,16,78,5," 57,160 ", 7.9 ,3,Post Graduate,3,5,2,5,4,2,3,1,4,5,5,5,A
+Evans,100712,Business Analyst,6,58.5,3.4," 95,678 ", 3.4 ,2,Post Graduate,2,2,5,5,4,2,4,4,1,3,3,5,B
+Ellis,100714,Business Analyst,14,58.5,7.9," 54,756 ", 9.7 ,2,Graduate,3,3,5,2,5,1,3,1,3,2,2,5,B
+Johnson,100715,Data Analyst,12,39,2.3," 55,145 ", 5.0 ,1,Post Graduate,1,4,4,1,5,4,3,3,3,4,1,4,B
+Wells,101281,Business Analyst,6,58.5,4.2," 53,472 ", 6.8 ,4,Post Graduate,3,5,2,2,5,1,4,1,3,2,3,4,B
+Watson,100717,Domain Expert,8,58.5,9.1," 101,582 ", 12.1 ,2,Graduate,2,1,2,3,4,2,5,1,2,2,2,3,C
+Taylor,101291,Data Analyst,8,58.5,4," 41,312 ", 5.7 ,3,Post Graduate,5,4,3,4,4,1,4,4,4,2,4,5,A
+Davis,101331,Software Developer,6,39,5," 27,125 ", 6.7 ,1,Post Graduate,3,1,4,2,5,1,3,3,3,1,3,3,C
+Fowler,101333,Data Engineer,6,78,4," 37,832 ", 4.0 ,4,Graduate,2,2,2,5,5,5,5,1,1,1,2,4,B
+Tucker,100724,Domain Expert,8,78,11," 89,846 ", 15.4 ,3,Doctorate,4,5,1,3,4,3,4,1,1,3,4,1,B
+Craig,100725,Data Scientist,6,58.5,10.6," 87,336 ", 13.8 ,7,Post Graduate,2,5,3,1,5,1,5,2,5,5,3,1,B
+Hill,100727,Chief Data Scientist,10,78,8.3," 131,488 ", 18.3 ,8,Post Graduate,4,2,5,5,4,4,1,1,1,3,3,1,B
+Thomas,101358,Data Engineer,6,117,4.6," 43,233 ", 4.6 ,1,Post Graduate,1,2,3,1,5,1,1,3,1,3,1,2,C
+Williams,100730,Chief Data Scientist,14,58.5,6.4," 174,555 ", 11.0 ,3,Doctorate,5,3,2,2,4,2,1,5,4,1,4,1,B
+Farrell,101399,Business Analyst,6,58.5,4.9," 73,433 ", 7.4 ,4,Graduate,5,5,4,2,5,2,1,3,3,5,5,1,B
+Gray,100733,Data Scientist,16,78,10.3," 103,609 ", 12.0 ,1,Doctorate,4,3,4,4,5,4,2,4,2,1,3,5,B
+Richardson,100738,Software Developer,10,39,3.6," 45,660 ", 6.5 ,1,Graduate,1,4,5,5,5,4,2,1,5,2,3,4,B
+Hill,101411,Data Engineer,12,117,4.3," 42,761 ", 6.0 ,4,Graduate,1,5,1,5,5,3,2,3,4,2,2,5,B
+Campbell,100742,Chief Data Scientist,8,39,9.3," 138,015 ", 15.7 ,5,Post Graduate,4,3,5,4,4,3,2,2,1,4,4,5,B
+Wright,100743,Data Scientist,8,78,2," 92,627 ", 6.8 ,2,Graduate,3,1,2,5,5,1,1,2,1,1,1,5,C
+Warren,101415,Data Engineer,6,39,4.1," 38,048 ", 5.4 ,4,Graduate,4,4,2,1,4,2,4,3,3,3,4,5,B
+Brown,100747,Business Analyst,18,39,9.9," 62,497 ", 11.1 ,2,Graduate,1,4,2,4,5,2,4,3,4,3,4,3,B
+Fowler,100749,Software Developer,6,117,2.2," 31,131 ", 3.6 ,2,Post Graduate,2,1,5,5,4,4,5,2,4,2,1,3,B
+Parker,101428,Business Analyst,8,58.5,4.1," 56,311 ", 5.2 ,4,Graduate,2,1,5,5,4,1,5,4,5,2,1,3,B
+Barnes,100754,Business Analyst,12,97.5,3.5," 80,172 ", 5.4 ,3,Post Graduate,5,1,2,3,5,5,2,2,3,4,5,2,B
+Dixon,100757,Domain Expert,6,39,6.6," 72,371 ", 8.4 ,6,Graduate,1,3,1,3,5,5,5,2,1,4,1,2,B
+Carter,100760,Database Administrator,10,58.5,9.3," 75,282 ", 11.2 ,4,Post Graduate,3,1,2,4,5,4,5,5,1,1,5,1,B
+Mitchell,100762,Domain Expert,6,19.5,11.9," 130,828 ", 13.7 ,3,Post Graduate,5,4,1,5,4,5,1,3,1,1,3,5,B
+Cole,101436,Business Analyst,8,58.5,4.3," 66,539 ", 7.5 ,2,Graduate,5,4,2,3,5,4,3,2,4,3,3,2,B
+Kelley,101439,Software Developer,6,39,4.5," 51,845 ", 4.5 ,3,Graduate,2,2,1,1,4,1,1,4,4,1,5,2,C
+Howard,101486,Software Developer,10,58.5,4.8," 34,276 ", 6.2 ,2,Graduate,2,4,3,5,4,3,1,4,4,2,1,2,B
+Bennett,100772,Data Engineer,10,39,11," 62,557 ", 13.5 ,4,Graduate,2,1,1,3,4,5,5,2,2,5,2,5,B
+Harris,101513,Data Engineer,8,58.5,4.2," 37,470 ", 6.0 ,4,Graduate,4,3,3,4,5,3,2,4,2,5,1,5,B
+Stewart,101607,Data Analyst,12,58.5,4.1," 39,025 ", 6.0 ,2,Post Graduate,1,5,4,1,4,2,1,3,1,3,2,2,C
+Wright,101627,Data Engineer,10,58.5,4.9," 36,163 ", 6.6 ,3,Graduate,2,4,3,3,4,4,2,1,4,5,4,5,B
+Wilson,100781,Business Analyst,18,97.5,7.5," 72,820 ", 11.1 ,2,Graduate,5,1,5,2,5,3,4,1,2,1,1,2,C
+Ferguson,100784,Data Analyst,12,58.5,4," 41,299 ", 5.1 ,2,Graduate,5,5,2,1,5,1,4,3,4,5,4,1,B
+Hawkins,101647,Data Analyst,12,0,4.9," 41,441 ", 6.3 ,1,Graduate,2,5,3,4,5,4,1,1,3,5,5,2,B
+Elliott,100786,Business Analyst,16,97.5,7.4," 73,927 ", 7.4 ,7,Post Graduate,1,2,4,4,5,5,2,4,3,2,5,3,B
+Harris,100789,Business Analyst,10,19.5,11.1," 89,398 ", 12.5 ,1,Doctorate,5,5,4,4,4,2,3,5,4,3,2,1,B
+Alexander,100791,Data Analyst,12,58.5,5.8," 50,173 ", 8.2 ,1,Post Graduate,4,3,3,3,4,1,3,3,1,1,2,3,C
+Cunningham,100792,Data Engineer,8,39,3.1," 51,422 ", 3.1 ,1,Post Graduate,4,2,5,5,4,4,5,1,2,1,3,5,B
+Mitchell,101651,Domain Expert,6,78,4.9," 94,359 ", 4.9 ,4,Doctorate,2,2,3,2,5,2,3,1,4,1,3,1,C
+Armstrong,101682,Domain Expert,8,39,4.4," 63,004 ", 7.2 ,1,Post Graduate,1,4,5,1,4,5,2,3,1,3,4,5,B
+Grant,101735,Data Engineer,8,58.5,4.8," 38,825 ", 6.1 ,4,Post Graduate,5,4,4,2,4,1,5,3,3,2,5,4,B
+Gray,100800,Business Analyst,14,58.5,5.1," 51,162 ", 5.1 ,4,Graduate,4,2,2,2,4,5,5,5,2,5,1,3,B
+Holmes,100803,Data Scientist,6,39,16.3," 70,463 ", 16.3 ,8,Doctorate,3,2,4,2,5,1,4,5,2,3,2,3,B
+Andrews,100804,Data Analyst,6,58.5,7.5," 51,622 ", 10.4 ,5,Graduate,5,4,1,3,4,2,5,5,4,4,1,3,B
+Perkins,101886,Data Scientist,6,39,4.9," 56,417 ", 7.3 ,4,Post Graduate,5,1,5,2,5,4,5,1,1,2,4,1,B
+Jones,100806,Data Engineer,16,39,3.6," 45,165 ", 6.2 ,3,Graduate,1,4,3,2,4,4,4,1,1,5,4,5,B
+Kate-II,100808,Business Analyst,12,19.5,4.4," 76,590 ", 7.4 ,3,Post Graduate,2,3,4,4,5,2,1,5,3,2,1,2,B
+Sabrina-II,100811,Data Engineer,16,39,1.3," 38,865 ", 2.7 ,1,Post Graduate,1,5,3,2,5,5,5,1,5,5,5,1,B
+Lilianna-II,100019,Data Engineer,8,78,5.7," 36,789 ", 7.6 ,2,Graduate,5,3,2,5,4,2,5,5,3,2,4,5,A
+Ada-II,100813,Data Engineer,14,58.5,6.4," 37,105 ", 8.4 ,5,Post Graduate,4,5,4,3,4,2,4,3,1,4,3,3,B
+Nicole-II,100815,Chief Data Scientist,10,58.5,5.8," 207,842 ", 13.4 ,2,Doctorate,3,5,4,4,4,5,1,1,5,3,4,3,B
+Jenna-II,100031,Data Analyst,6,39,5.7," 49,597 ", 6.9 ,3,Graduate,3,3,2,3,4,1,2,2,2,4,3,5,B
+Fenton-II,100817,Chief Data Scientist,6,58.5,14.2," 137,756 ", 16.7 ,6,Post Graduate,4,4,2,3,5,2,3,3,1,2,3,3,B
+Abigail-II,100179,Data Scientist,10,39,5.4," 53,484 ", 7.8 ,5,Doctorate,4,1,5,5,4,1,3,3,4,3,1,5,B
+Adrianna-II,100284,Data Analyst,10,39,5.9," 45,496 ", 8.1 ,5,Graduate,5,3,2,3,5,1,1,1,3,3,3,4,B
+Michelle-II,100825,Chief Data Scientist,6,39,30.8," 226,777 ", 36.0 ,1,Doctorate,5,4,3,5,4,4,4,3,5,1,2,2,B
+Kevin-II,100827,Data Scientist,8,78,5.4," 71,429 ", 8.3 ,4,Graduate,3,5,5,5,5,2,5,4,2,5,4,4,A
+David-II,100315,Data Analyst,8,58.5,5.5," 46,391 ", 7.7 ,4,Post Graduate,1,4,4,3,5,5,1,5,4,3,3,4,B
+Melanie-II,100830,Data Scientist,6,58.5,15.1," 72,607 ", 17.9 ,7,Doctorate,1,1,2,3,4,2,5,3,2,1,2,5,C
+Rosie-II,100832,Data Engineer,8,117,2.7," 60,023 ", 2.7 ,2,Post Graduate,4,2,3,1,4,3,5,2,3,4,5,5,B
+Nicholas-II,100833,Data Scientist,18,78,1.1," 81,032 ", 5.7 ,1,Graduate,1,1,3,2,4,3,1,1,3,1,4,3,C
+April-II,100837,Domain Expert,10,58.5,5.9," 74,092 ", 8.4 ,1,Graduate,3,5,2,2,5,5,2,2,3,1,3,3,B
+Sam-II,100840,Business Analyst,12,58.5,10.9," 70,187 ", 12.0 ,1,Post Graduate,5,5,3,1,5,3,2,1,4,2,5,3,B
+Eric-II,100330,Software Developer,6,97.5,5.1," 38,603 ", 5.1 ,5,Graduate,5,2,4,1,5,2,1,2,2,5,1,5,B
+Freddie-II,100843,Chief Data Scientist,18,58.5,5.2," 202,185 ", 17.1 ,1,Doctorate,5,5,2,1,5,4,2,4,1,4,1,3,B
+Andrew-II,100844,Chief Data Scientist,10,58.5,10.8," 150,918 ", 16.7 ,2,Post Graduate,3,3,1,2,4,3,2,4,2,2,4,4,B
+Samantha-II,100845,Data Scientist,16,58.5,10," 120,435 ", 10.0 ,1,Graduate,5,2,2,1,4,4,2,5,3,3,3,5,B
+Emily-II,100846,Business Analyst,14,39,9.6," 56,311 ", 12.2 ,6,Graduate,3,1,4,3,5,4,1,1,3,5,2,3,B
+Derek-II,100450,Data Analyst,6,78,5.1," 57,372 ", 7.3 ,1,Post Graduate,2,4,5,1,5,1,2,1,2,2,3,2,C
+Edgar-II,100469,Business Analyst,8,58.5,5.8," 54,779 ", 6.9 ,1,Graduate,4,1,1,2,5,1,4,1,3,4,2,2,C
+Alan-II,100584,Data Engineer,8,39,5.6," 40,157 ", 6.7 ,2,Post Graduate,3,4,2,1,5,2,3,3,4,3,5,3,B
+Ryan-II,100631,Business Analyst,6,39,5.8," 55,464 ", 5.8 ,4,Graduate,1,2,4,2,4,5,5,3,3,3,3,2,B
+Abigail-II,100857,Business Analyst,8,19.5,14.1," 73,067 ", 17.1 ,2,Graduate,1,3,3,5,5,2,1,4,4,1,2,1,C
+Nicholas-II,100667,Software Developer,6,58.5,5.3," 35,832 ", 5.3 ,4,Graduate,2,2,4,1,5,2,5,2,3,4,3,5,B
+Cherry-II,100861,Data Analyst,6,58.5,6.1," 44,316 ", 6.1 ,1,Graduate,5,2,4,3,4,4,5,4,2,3,4,1,B
+Owen-II,100867,Data Scientist,16,58.5,10.6," 162,913 ", 14.2 ,3,Doctorate,1,4,4,1,5,1,4,2,4,2,1,5,B
+Olivia-II,100868,Business Analyst,14,39,2.9," 74,635 ", 6.0 ,2,Graduate,2,5,1,4,4,3,4,2,5,1,1,4,B
+Antony-II,100723,Business Analyst,8,78,5," 80,077 ", 7.6 ,1,Doctorate,2,4,5,1,4,3,5,2,3,2,2,5,B
+Carina-II,100872,Data Scientist,16,39,3.8," 56,264 ", 6.4 ,2,Graduate,3,5,3,3,4,3,1,1,1,2,1,4,C
+Arnold-II,100796,Business Analyst,12,39,5.5," 62,757 ", 7.1 ,1,Post Graduate,1,5,2,1,4,2,1,3,4,4,4,4,B
+Adelaide-II,100880,Data Scientist,14,39,18.6," 125,902 ", 25.3 ,6,Graduate,4,4,3,5,4,5,3,4,1,3,4,5,A
+Eric-II,100797,Data Analyst,10,39,5.5," 38,648 ", 7.5 ,1,Post Graduate,1,1,2,5,4,5,1,3,5,4,4,5,B
+Luke-II,100854,Data Analyst,8,58.5,5.9," 40,346 ", 8.5 ,3,Post Graduate,1,1,2,3,5,3,3,1,2,1,3,2,C
+Hailey-II,100887,Data Analyst,10,39,5.2," 42,184 ", 6.8 ,2,Graduate,5,3,5,2,4,4,1,5,5,4,4,2,A
+James-II,100916,Business Analyst,8,58.5,5.1," 57,832 ", 5.1 ,4,Graduate,3,2,1,2,4,3,1,3,3,2,3,5,C
+Aldus-II,100889,Business Analyst,8,58.5,11.1," 76,873 ", 14.1 ,7,Graduate,2,1,1,2,4,2,3,2,5,3,2,1,C
+Adele-II,100893,Software Developer,14,58.5,3.1," 34,159 ", 4.8 ,2,Graduate,4,1,1,4,5,4,1,3,4,2,5,3,B
+Belinda-II,100894,Data Engineer,8,19.5,6.3," 61,638 ", 8.8 ,3,Graduate,3,3,5,4,4,5,3,3,5,3,4,5,A
+Rubie-II,101010,Data Engineer,18,39,5.9," 44,103 ", 7.0 ,2,Post Graduate,1,1,2,1,5,2,4,2,4,2,3,4,C
+Max-II,100899,Data Scientist,10,39,14.2," 128,471 ", 14.2 ,4,Graduate,1,2,3,2,5,5,4,4,1,5,5,3,B
+Paige-II,100900,Software Developer,10,58.5,6.4," 35,031 ", 8.3 ,5,Graduate,4,4,5,4,4,3,4,3,3,3,1,2,B
+Lana-II,100901,Chief Data Scientist,12,0,13.2," 168,204 ", 13.2 ,3,Post Graduate,2,2,2,3,5,5,5,2,5,2,3,1,B
+Richard-II,101042,Data Engineer,10,19.5,5.9," 32,321 ", 6.9 ,1,Graduate,2,3,5,2,4,1,4,3,5,1,1,5,B
+Miranda-II,100903,Business Analyst,16,39,8.1," 53,460 ", 10.1 ,1,Graduate,5,4,3,1,4,1,1,4,3,2,5,4,B
+Vanessa-II,100904,Business Analyst,8,39,11.6," 90,046 ", 11.6 ,5,Post Graduate,4,2,4,1,4,5,5,4,5,2,3,3,B
+April-II,100909,Database Administrator,6,39,6," 61,319 ", 9.9 ,4,Post Graduate,5,3,1,2,4,4,2,2,5,2,4,3,B
+Charlotte-II,101188,Business Analyst,8,39,5.7," 62,993 ", 8.3 ,1,Post Graduate,5,5,1,3,5,2,1,1,1,3,1,5,B
+Nicholas-II,101240,Business Analyst,8,78,5," 58,326 ", 6.9 ,4,Graduate,3,5,5,4,5,4,4,1,4,5,1,3,A
+Kirsten-II,101340,Data Analyst,10,0,5.7," 41,759 ", 8.1 ,3,Graduate,2,4,4,1,5,1,5,3,2,3,2,3,B
+Kevin-II,100920,Data Scientist,16,39,2.3," 56,147 ", 3.9 ,1,Post Graduate,2,3,5,3,5,5,2,2,5,5,5,1,B
+Jenna-II,101380,Business Analyst,12,0,5.9," 54,366 ", 8.4 ,2,Graduate,1,1,5,5,5,4,4,2,5,3,4,3,B
+Daniel-II,101420,Data Engineer,14,39,5.4," 50,479 ", 7.4 ,5,Post Graduate,2,5,4,2,5,3,4,3,2,4,5,5,A
+Eleanor-II,100924,Domain Expert,12,39,17.3," 77,603 ", 19.9 ,4,Doctorate,3,4,2,2,5,5,1,2,5,1,3,2,B
+Miranda-II,100925,Software Developer,12,58.5,4.8," 38,814 ", 6.2 ,4,Post Graduate,1,4,5,5,4,2,2,5,5,3,4,3,B
+Sawyer-II,101431,Data Analyst,8,39,5.9," 35,302 ", 7.1 ,3,Post Graduate,3,4,5,5,4,1,5,5,1,1,4,4,B
+Kate-II,101477,Business Analyst,8,39,5.3," 51,528 ", 8.2 ,1,Graduate,3,5,1,5,5,4,3,2,5,5,1,1,B
+Fenton-II,101507,Business Analyst,8,97.5,5.5," 57,713 ", 6.6 ,2,Graduate,5,4,4,5,5,3,4,1,4,3,3,3,A
+Roland-II,100936,Business Analyst,12,117,6.2," 73,573 ", 6.2 ,2,Graduate,2,2,2,2,4,1,3,3,1,5,4,4,B
+Daisy-II,100940,Domain Expert,8,58.5,7.7," 124,335 ", 10.7 ,6,Post Graduate,1,5,4,4,5,3,1,5,3,1,1,1,B
+Mary-II,101596,Data Engineer,12,58.5,5," 40,146 ", 5.0 ,5,Post Graduate,2,2,5,4,5,1,3,2,4,3,3,5,B
+Stuart-II,100947,Business Analyst,8,39,10.8," 81,681 ", 10.8 ,1,Post Graduate,1,2,4,4,4,1,1,4,2,4,3,5,B
+Grace-II,101641,Data Scientist,10,39,5.7," 93,616 ", 10.6 ,4,Graduate,4,1,5,4,4,1,5,1,3,2,5,3,B
+Violet-II,100950,Chief Data Scientist,8,58.5,16.7," 160,037 ", 20.0 ,6,Post Graduate,1,4,1,1,4,5,4,5,5,1,4,3,B
+Isabella-II,100952,Software Developer,12,39,2.2," 28,432 ", 3.9 ,1,Post Graduate,1,1,2,2,5,3,1,4,4,2,5,3,B
+Luke-II,101649,Data Engineer,8,58.5,5.3," 35,522 ", 7.1 ,4,Graduate,1,3,2,4,4,1,5,4,5,3,1,4,B
+Aiden-II,100957,Data Engineer,8,58.5,10.4," 55,628 ", 11.6 ,3,Graduate,4,3,3,1,5,5,5,3,3,4,3,1,B
+Jared-II,101694,Data Analyst,6,19.5,5.1," 41,677 ", 7.4 ,1,Post Graduate,4,3,3,2,4,4,4,4,3,3,5,5,A
+Honey-II,100960,Data Engineer,14,39,2.3," 35,031 ", 3.4 ,1,Graduate,4,4,2,5,4,3,5,1,2,5,4,4,B
+Belinda-II,101802,Data Engineer,12,97.5,5.3," 39,791 ", 6.4 ,3,Graduate,4,5,1,5,5,2,5,1,5,2,4,1,B
+Patrick-II,100964,Data Analyst,8,39,2.2," 42,620 ", 2.2 ,1,Graduate,1,2,2,1,4,4,3,3,2,3,4,4,B
+Rosie-II,100966,Data Scientist,6,39,9.2," 79,241 ", 11.6 ,1,Graduate,2,3,2,5,4,1,3,4,2,3,3,2,B
+Fiona-II,100969,Domain Expert,8,58.5,6.1," 81,881 ", 7.7 ,4,Doctorate,3,5,1,3,5,2,2,1,3,1,1,5,C
+Deanna-II,101907,Data Engineer,10,58.5,5.9," 30,483 ", 7.4 ,3,Graduate,4,4,5,2,4,4,2,4,5,2,5,1,B
+Edith-II,101908,Business Analyst,10,19.5,5.2," 64,889 ", 9.1 ,5,Graduate,1,1,2,1,5,4,3,5,3,3,4,2,B
+Clark-II,100975,Business Analyst,10,58.5,6.9," 54,213 ", 8.8 ,6,Graduate,1,5,1,5,5,3,5,2,1,3,3,5,B
+Gianna-II,100977,Data Analyst,18,78,2.6," 39,210 ", 4.0 ,2,Post Graduate,3,5,5,3,4,2,1,2,3,5,3,5,B
+Wilson-II,100982,Business Analyst,6,39,9.3," 85,592 ", 13.8 ,3,Post Graduate,4,3,5,2,4,5,5,1,4,4,4,3,A
+Sarah-II,100014,Data Engineer,8,97.5,6.6," 37,696 ", 8.1 ,2,Post Graduate,2,5,1,4,5,1,4,1,1,5,2,3,B
+Alina-II,100984,Business Analyst,8,39,11.7," 92,178 ", 15.8 ,2,Post Graduate,1,5,4,4,5,5,3,3,4,5,3,5,A
+Mary-II,100985,Business Analyst,12,58.5,9.9," 92,851 ", 13.8 ,3,Doctorate,5,4,1,5,5,1,2,5,1,1,2,3,B
+Kellan-II,100987,Data Scientist,14,58.5,20.3," 59,704 ", 22.6 ,6,Graduate,1,5,5,2,5,1,5,3,3,4,4,2,B
+Albert-II,100016,Data Analyst,12,19.5,6.3," 43,211 ", 8.5 ,2,Post Graduate,2,3,5,1,5,4,3,5,2,1,1,3,B
+Tess-II,100991,Data Analyst,16,0,4.2," 42,349 ", 4.2 ,3,Post Graduate,2,2,3,4,5,4,4,1,3,1,1,1,C
+Alen-II,100994,Data Analyst,14,97.5,1.2," 38,326 ", 3.1 ,1,Post Graduate,1,3,4,4,5,2,5,3,4,2,3,3,B
+Amelia-II,100023,Data Architect,10,58.5,6.4," 70,536 ", 7.7 ,5,Doctorate,4,3,5,1,4,5,1,4,1,3,5,3,B
+Alexia-II,100997,Chief Data Scientist,16,19.5,6.9," 205,014 ", 18.9 ,4,Doctorate,2,5,4,2,4,4,1,1,4,5,2,3,B
+Joyce-II,100110,Data Scientist,10,39,6.8," 63,643 ", 9.4 ,3,Graduate,4,5,3,2,5,3,3,5,1,4,1,5,B
+Lucas-II,100999,Chief Data Scientist,12,39,19.4," 228,815 ", 25.7 ,7,Doctorate,5,1,4,3,5,1,5,3,5,2,2,5,B
+Penelope-II,100129,Business Analyst,10,58.5,6.3," 51,753 ", 8.0 ,3,Graduate,4,1,4,3,4,3,5,5,1,4,2,2,B
+Chester-II,101002,Data Engineer,10,39,10.3," 42,808 ", 12.7 ,7,Graduate,5,3,5,4,5,4,2,3,4,3,5,4,A
+Alexia-II,100161,Data Analyst,12,39,6.6," 43,481 ", 9.3 ,6,Graduate,1,4,4,4,4,5,3,2,1,2,3,5,B
+Rafael-II,101005,Data Scientist,12,39,13.7," 164,645 ", 21.6 ,7,Doctorate,1,3,2,1,5,1,4,2,4,4,3,1,C
+Tony-II,101007,Data Scientist,8,58.5,9.8," 127,788 ", 16.1 ,3,Graduate,4,5,5,5,4,5,3,1,1,1,2,1,B
+Kellan-II,100226,Data Architect,10,97.5,6.4," 77,240 ", 8.2 ,1,Post Graduate,2,4,3,2,5,3,5,5,3,1,1,4,B
+Carlos-II,101013,Data Scientist,6,39,11.1," 126,539 ", 13.3 ,8,Graduate,2,4,2,5,5,4,5,1,1,4,4,2,B
+Maya-II,101014,Domain Expert,6,58.5,17.6," 122,403 ", 23.7 ,4,Graduate,4,3,4,2,4,5,2,3,3,3,2,1,B
+Chloe-II,101015,Chief Data Scientist,6,78,9.5," 134,516 ", 14.6 ,8,Post Graduate,2,1,1,1,4,4,5,5,5,2,1,2,B
+Carlos-II,100233,Data Analyst,10,58.5,6.8," 41,632 ", 9.5 ,6,Graduate,1,5,1,5,5,1,2,5,5,3,3,5,B
+Alfred-II,100239,Data Engineer,6,78,6.6," 32,782 ", 7.8 ,3,Post Graduate,3,1,4,5,5,5,3,1,5,1,3,2,B
+Emma-II,100297,Data Analyst,6,97.5,6.6," 44,283 ", 8.8 ,6,Post Graduate,5,3,5,4,5,5,5,4,4,5,3,1,A
+Tara-II,101024,Domain Expert,8,58.5,16.2," 129,603 ", 18.3 ,1,Doctorate,3,5,2,4,5,1,4,4,3,5,4,2,B
+Paige-II,100336,Data Architect,6,39,6.1," 73,776 ", 10.1 ,2,Doctorate,1,1,5,3,4,1,5,1,5,1,4,5,B
+Aston-II,101026,Data Scientist,10,58.5,22.7," 150,140 ", 26.5 ,2,Post Graduate,1,3,2,5,4,3,5,2,4,2,3,4,B
+Edward-II,101028,Data Engineer,14,78,4.4," 46,154 ", 6.3 ,3,Post Graduate,2,1,5,4,4,3,3,2,5,2,1,1,B
+Marcus-II,101032,Data Scientist,8,78,6.2," 161,735 ", 9.1 ,2,Graduate,2,3,3,4,5,3,2,5,1,3,2,1,B
+Vivian-II,100355,Data Engineer,6,39,6.6," 44,094 ", 6.6 ,1,Graduate,2,2,3,2,4,2,2,1,5,5,5,4,B
+Joyce-II,101034,Domain Expert,8,58.5,9.4," 75,235 ", 12.3 ,3,Graduate,1,4,3,1,4,4,4,5,4,3,1,5,B
+Briony-II,101035,Chief Data Scientist,16,58.5,22.1," 235,344 ", 29.8 ,1,Doctorate,2,4,1,4,5,5,4,5,5,4,5,5,A
+Antony-II,101036,Business Analyst,6,19.5,2.3," 80,843 ", 4.3 ,1,Post Graduate,3,4,5,5,4,1,4,5,5,5,1,2,A
+James-II,100373,Data Engineer,6,78,6," 37,823 ", 7.1 ,1,Post Graduate,3,4,4,3,4,2,1,4,4,2,4,5,B
+Aston-II,101040,Business Analyst,6,58.5,14.8," 74,788 ", 18.3 ,3,Graduate,4,3,1,4,5,5,4,1,2,2,3,3,B
+Gianna-II,100390,Domain Expert,8,58.5,6.1," 55,864 ", 7.2 ,3,Doctorate,1,4,3,4,4,3,4,5,2,5,5,5,A
+Ada-II,101043,Data Scientist,8,39,22.5," 128,199 ", 25.0 ,4,Post Graduate,2,4,1,5,5,4,1,5,2,4,4,1,B
+Lucia-II,101044,Software Developer,14,39,3.6," 27,596 ", 5.0 ,1,Graduate,1,3,5,1,5,2,4,5,2,3,4,1,B
+Vincent-II,101046,Data Engineer,6,39,10," 47,426 ", 12.0 ,4,Graduate,1,4,4,4,4,4,4,5,4,2,5,3,A
+Freddie-II,101050,Business Analyst,6,39,16.5," 88,668 ", 19.8 ,5,Post Graduate,2,5,4,5,4,4,3,2,2,3,2,4,B
+Alexia-II,100422,Domain Expert,8,39,6.5," 66,693 ", 10.2 ,4,Post Graduate,1,4,2,5,4,4,3,3,1,1,2,1,C
+Julia-II,100423,Data Analyst,6,78,7," 56,806 ", 9.2 ,7,Post Graduate,1,3,5,2,5,1,3,4,5,3,2,3,B
+Brooke-II,101055,Software Developer,14,39,3," 26,158 ", 4.2 ,1,Post Graduate,4,4,3,2,4,2,1,1,5,1,1,4,C
+Amber-II,101061,Chief Data Scientist,6,39,9.5," 226,671 ", 20.2 ,4,Doctorate,3,4,5,4,4,3,2,1,4,2,3,3,B
+Kelvin-II,101066,Business Analyst,8,58.5,8.4," 98,931 ", 11.6 ,2,Doctorate,5,4,5,5,4,2,1,1,4,3,5,2,B
+Miranda-II,101069,Chief Data Scientist,12,0,3.9," 231,266 ", 17.0 ,3,Doctorate,2,1,5,5,5,2,3,4,5,3,3,1,B
+Vivian-II,101073,Data Scientist,6,39,15.4," 104,375 ", 19.9 ,4,Post Graduate,1,1,4,3,4,3,2,4,4,4,2,1,B
+Sabrina-II,100437,Business Analyst,6,58.5,6.9," 52,764 ", 9.7 ,6,Graduate,5,3,4,5,4,2,2,4,2,2,1,1,B
+Chelsea-II,100502,Business Analyst,8,58.5,6.3," 62,497 ", 9.5 ,1,Graduate,4,1,3,4,5,4,4,5,2,5,4,4,A
+Byron-II,101080,Data Analyst,18,39,14.5," 54,379 ", 17.2 ,5,Post Graduate,4,3,4,3,4,1,2,5,2,2,1,2,B
+Hailey-II,100507,Business Analyst,6,39,6.8," 50,196 ", 8.1 ,6,Graduate,3,3,4,5,4,5,1,1,5,1,4,3,B
+Catherine-II,101082,Domain Expert,6,39,11.2," 102,771 ", 12.9 ,1,Graduate,5,3,3,4,4,4,4,3,4,4,1,4,B
+Anna-II,101083,Data Engineer,10,39,6.5," 46,603 ", 8.2 ,3,Graduate,2,3,5,1,5,2,4,5,5,4,2,3,B
+Carl-II,101084,Data Scientist,10,19.5,7.4," 117,323 ", 9.4 ,7,Post Graduate,2,1,2,1,5,1,5,2,5,5,5,4,B
+Sydney-II,100515,Data Engineer,6,39,6.5," 35,750 ", 6.5 ,1,Graduate,4,2,5,2,4,5,3,2,2,4,5,2,B
+Myra-II,101088,Domain Expert,12,78,21," 103,962 ", 26.0 ,6,Post Graduate,1,5,2,3,4,4,2,5,4,2,1,4,B
+Patrick-II,101092,Domain Expert,14,78,12.4," 121,625 ", 13.4 ,7,Post Graduate,5,4,4,3,5,5,2,1,2,3,1,5,B
+Paige-II,101094,Data Engineer,14,78,4.9," 54,449 ", 7.5 ,4,Graduate,5,4,1,1,4,3,3,2,5,2,3,5,B
+Cadie-II,101096,Data Scientist,12,78,4.4," 129,331 ", 8.1 ,1,Doctorate,2,3,4,1,5,3,4,3,3,1,4,3,B
+Lucy-II,101097,Data Analyst,8,78,9.3," 43,126 ", 12.0 ,7,Graduate,3,4,3,1,4,3,3,1,2,4,5,3,B
+April-II,101099,Domain Expert,10,39,4.8," 83,883 ", 7.9 ,1,Post Graduate,4,1,2,3,5,5,3,1,2,4,1,2,B
+Alisa-II,101101,Data Analyst,16,78,14.1," 53,118 ", 15.5 ,8,Post Graduate,2,5,2,2,4,3,2,3,5,5,2,3,B
+Melissa-II,101103,Domain Expert,12,19.5,7.1," 91,389 ", 7.1 ,6,Graduate,2,2,2,3,5,4,2,4,5,5,4,2,B
+Darcy-II,101105,Business Analyst,8,97.5,2.7," 78,875 ", 5.5 ,1,Doctorate,5,4,3,1,4,2,3,3,1,1,1,2,C
+Samantha-II,100516,Business Analyst,6,97.5,6.5," 67,340 ", 8.8 ,4,Graduate,1,4,2,4,4,3,1,2,3,1,5,1,C
+Abigail-II,100517,Data Engineer,10,97.5,6.9," 30,353 ", 8.5 ,3,Graduate,2,1,5,5,5,3,2,2,2,1,4,1,B
+Owen-II,100527,Business Analyst,6,58.5,6.8," 52,871 ", 9.1 ,4,Graduate,5,1,4,5,4,5,5,2,1,3,2,2,B
+Lily-II,100533,Business Analyst,6,117,7," 77,497 ", 9.2 ,3,Graduate,4,5,1,5,4,1,3,3,1,5,5,3,B
+Kimberly-II,100554,Software Developer,10,78,6.1," 37,729 ", 8.0 ,4,Graduate,3,4,2,1,5,2,5,5,3,3,5,5,B
+Madaline-II,101114,Business Analyst,12,58.5,4.6," 50,690 ", 6.6 ,3,Graduate,1,3,5,4,4,5,4,4,3,4,4,5,A
+Charlie-II,101115,Data Analyst,12,39,1.2," 35,102 ", 3.0 ,1,Post Graduate,2,1,1,1,5,2,5,5,4,5,2,3,B
+Max-II,100574,Data Scientist,8,39,6.7," 59,740 ", 6.7 ,2,Graduate,1,2,2,4,4,4,3,4,1,1,4,5,B
+Alisa-II,101118,Domain Expert,14,78,9.6," 123,074 ", 13.4 ,2,Graduate,3,1,5,3,4,3,4,1,4,2,4,4,B
+Heather-II,101121,Data Scientist,12,58.5,10.6," 90,200 ", 12.8 ,3,Graduate,3,3,4,1,5,1,1,3,3,1,1,3,C
+Abigail-II,101125,Business Analyst,10,39,2.7," 86,617 ", 4.4 ,1,Post Graduate,4,5,5,2,4,3,3,1,5,5,3,2,B
+Miley-II,101126,Data Scientist,6,19.5,9.7," 127,493 ", 16.2 ,1,Graduate,2,5,5,3,5,5,5,3,3,4,4,2,A
+Madaline-II,101127,Domain Expert,6,78,19.4," 143,389 ", 27.3 ,4,Doctorate,4,4,1,1,5,5,5,3,2,3,4,4,B
+Harold-II,101128,Chief Data Scientist,8,39,21.2," 231,255 ", 29.5 ,2,Doctorate,5,1,5,4,5,5,1,2,5,1,5,4,B
+Michael-II,101133,Data Scientist,14,0,12.6," 91,661 ", 16.6 ,1,Doctorate,2,1,2,1,5,1,2,4,1,2,5,2,C
+Aiden-II,100716,Data Engineer,6,58.5,6.7," 37,953 ", 8.5 ,1,Graduate,3,3,3,5,4,5,3,4,2,1,4,1,B
+Oliver-II,100744,Data Engineer,8,97.5,6.1," 43,692 ", 6.1 ,4,Graduate,5,2,4,4,5,4,4,4,2,4,2,3,B
+Emily-II,100785,Business Analyst,6,39,6.3," 75,377 ", 10.0 ,4,Post Graduate,5,5,3,3,4,2,1,2,2,3,1,4,B
+Ryan-II,100799,Data Scientist,6,78,6.6," 64,630 ", 9.1 ,1,Graduate,2,1,1,1,4,4,4,4,1,2,5,4,B
+Samantha-II,101148,Data Engineer,14,58.5,2.6," 50,337 ", 5.6 ,2,Graduate,2,1,3,2,4,4,5,1,2,2,3,5,B
+Julian-II,100852,Domain Expert,6,39,6.1," 69,909 ", 7.9 ,1,Graduate,5,5,1,3,5,2,2,5,1,4,1,3,B
+Adrian-II,100859,Business Analyst,6,58.5,6.3," 51,881 ", 6.3 ,3,Graduate,2,2,3,2,5,3,4,1,1,2,1,4,C
+Kellan-II,100869,Database Administrator,8,117,6.9," 58,161 ", 6.9 ,1,Graduate,2,2,1,5,4,4,4,2,2,1,2,3,C
+Preston-II,101158,Data Engineer,6,78,2.5," 56,158 ", 4.9 ,2,Post Graduate,5,5,2,5,5,5,1,1,3,3,5,4,A
+Garry-II,100885,Business Analyst,6,19.5,6.2," 50,149 ", 6.2 ,3,Graduate,3,2,4,4,5,1,1,3,3,2,1,1,C
+Maximilian-II,100888,Data Engineer,12,39,6.5," 37,259 ", 7.8 ,4,Graduate,5,5,3,3,4,1,2,5,5,2,3,4,B
+Wilson-II,101163,Business Analyst,14,58.5,7.9," 67,329 ", 11.0 ,5,Post Graduate,5,3,2,3,5,2,5,4,4,4,2,5,A
+Maximilian-II,101164,Database Administrator,12,39,6.9," 50,939 ", 6.9 ,6,Post Graduate,1,2,3,5,4,3,3,3,1,5,5,4,B
+Frederick-II,100902,Domain Expert,8,39,6.5," 65,538 ", 9.4 ,6,Doctorate,2,4,3,2,5,3,1,1,4,3,3,5,B
+Adrian-II,101166,Chief Data Scientist,12,58.5,19.6," 159,060 ", 21.8 ,6,Post Graduate,3,1,4,4,4,4,3,2,3,1,1,1,C
+Lucy-II,100983,Business Analyst,8,19.5,6.5," 66,763 ", 6.5 ,6,Graduate,3,2,1,4,5,1,2,5,3,2,1,1,C
+Tara-II,101173,Data Engineer,16,39,5.3," 42,384 ", 7.2 ,5,Graduate,1,1,5,5,4,2,4,1,1,2,3,2,C
+Victoria-II,101004,Data Analyst,6,39,6.7," 35,122 ", 8.2 ,2,Graduate,5,4,5,1,5,1,4,1,3,2,5,5,B
+Amber-II,101177,Data Engineer,16,39,9.1," 52,081 ", 10.8 ,2,Graduate,1,4,3,2,5,4,3,2,2,5,5,3,B
+Elise-II,101179,Business Analyst,12,58.5,11.6," 77,509 ", 13.7 ,7,Post Graduate,2,5,5,4,4,3,4,3,4,2,5,4,A
+Ned-II,101136,Data Analyst,12,39,6.8," 37,718 ", 8.8 ,2,Post Graduate,3,3,3,1,4,3,2,2,4,1,1,5,C
+Richard-II,101182,Data Scientist,12,39,8.9," 121,059 ", 13.8 ,3,Graduate,3,5,1,2,5,4,2,4,3,3,1,5,B
+Lucy-II,101184,Domain Expert,14,58.5,14.8," 62,957 ", 17.9 ,3,Post Graduate,4,1,2,2,5,1,3,3,4,1,3,4,B
+Violet-II,101137,Business Analyst,6,58.5,6.7," 58,538 ", 8.3 ,6,Graduate,2,5,4,4,4,4,2,2,5,1,3,5,B
+Rosie-II,101190,Software Developer,6,58.5,2.7," 33,310 ", 4.5 ,1,Graduate,1,5,3,3,5,2,1,5,1,2,4,5,B
+John-II,101157,Business Analyst,12,58.5,6.3," 96,904 ", 10.8 ,1,Post Graduate,3,4,4,3,4,4,4,4,2,2,3,3,B
+Sarah-II,101195,Data Analyst,14,39,4.8," 52,753 ", 7.4 ,2,Graduate,5,1,1,2,5,4,5,4,1,4,3,3,B
+Alberta-II,101196,Data Scientist,8,39,15," 76,284 ", 18.3 ,3,Post Graduate,2,5,3,3,4,1,2,3,2,1,4,5,B
+Florrie-II,101192,Data Engineer,8,97.5,6.9," 36,893 ", 8.0 ,1,Post Graduate,2,5,5,4,4,4,2,2,1,1,4,5,B
+Maria-II,101310,Data Analyst,8,39,6.3," 46,001 ", 7.8 ,1,Post Graduate,2,4,1,2,4,2,5,3,3,4,4,3,B
+Richard-II,101387,Business Analyst,6,0,6.3," 55,664 ", 6.3 ,1,Graduate,5,2,2,5,5,5,2,1,4,5,3,1,B
+Alina-II,101207,Database Administrator,8,39,6," 42,418 ", 8.7 ,5,Post Graduate,1,1,3,4,4,3,3,3,3,2,3,5,B
+Miley-II,101409,Data Engineer,8,39,6.9," 34,759 ", 8.0 ,5,Graduate,1,3,3,4,5,1,1,1,5,3,1,4,C
+Belinda-II,101447,Data Engineer,12,39,6.3," 38,814 ", 7.5 ,2,Graduate,2,1,4,2,4,1,5,2,2,1,4,2,C
+Dexter-II,101471,Data Engineer,8,97.5,6.7," 37,259 ", 8.3 ,6,Graduate,3,3,3,5,5,5,1,5,4,5,4,4,A
+Ned-II,101217,Chief Data Scientist,6,39,6," 224,832 ", 17.5 ,5,Doctorate,4,1,2,1,5,3,1,4,1,4,2,5,B
+Steven-II,101475,Data Analyst,8,58.5,6.5," 40,299 ", 9.3 ,6,Post Graduate,1,4,4,5,4,5,4,1,1,3,4,2,B
+Stuart-II,101487,Business Analyst,6,78,7," 67,929 ", 7.0 ,1,Graduate,4,2,2,3,5,1,2,2,3,4,2,1,C
+Evelyn-II,101502,Data Engineer,6,97.5,6.5," 45,224 ", 6.5 ,6,Post Graduate,3,2,5,4,4,3,2,4,2,3,3,1,B
+Victoria-II,101534,Data Engineer,8,58.5,6.6," 33,779 ", 6.6 ,6,Graduate,1,2,3,2,5,5,1,3,1,1,3,5,C
+James-II,101225,Data Analyst,20,58.5,8.7," 53,507 ", 10.5 ,3,Post Graduate,5,1,5,5,5,3,5,5,4,1,1,2,B
+Wright-II,101226,Software Developer,12,39,3.3," 31,555 ", 4.9 ,3,Graduate,1,5,4,3,4,3,2,2,4,3,4,4,B
+Hawkins-II,101228,Data Scientist,6,58.5,8," 86,947 ", 9.0 ,5,Graduate,3,4,2,4,5,2,1,3,5,1,4,1,B
+Alexander-II,101231,Database Administrator,10,58.5,5.4," 73,903 ", 7.0 ,2,Graduate,3,1,1,3,4,4,1,1,2,4,1,2,C
+Armstrong-II,101233,Business Analyst,12,58.5,13," 61,508 ", 16.7 ,6,Graduate,1,3,2,3,5,1,2,2,3,2,3,2,C
+Perkins-II,101234,Data Engineer,14,39,3.7," 32,321 ", 5.1 ,2,Graduate,3,5,1,1,5,5,1,2,2,2,3,4,B
+Tucker-II,101235,Data Analyst,8,39,9.6," 58,892 ", 12.3 ,7,Graduate,1,3,1,3,4,1,5,3,5,4,4,2,B
+Hunt-II,101237,Data Scientist,16,39,8.5," 120,800 ", 12.4 ,7,Post Graduate,4,5,3,3,4,5,4,1,4,1,4,5,B
+Richardson-II,101239,Business Analyst,6,39,6.8," 80,738 ", 10.9 ,4,Post Graduate,4,3,3,4,5,4,3,3,3,1,5,5,B
+Chapman-II,101573,Data Scientist,6,39,6.9," 57,207 ", 8.8 ,3,Doctorate,3,1,3,3,5,3,3,3,3,5,3,5,B
+Alexander-II,101241,Data Analyst,16,39,12.1," 42,171 ", 14.8 ,5,Post Graduate,1,5,5,3,5,2,2,1,5,1,2,2,B
+Johnston-II,101242,Chief Data Scientist,12,78,2.4," 155,431 ", 12.4 ,2,Post Graduate,4,2,3,2,4,5,1,3,5,2,2,5,B
+Davis-II,101245,Data Scientist,12,39,6.8," 123,746 ", 11.9 ,5,Doctorate,4,1,2,2,5,1,5,5,2,4,3,1,B
+Barnes-II,101248,Data Analyst,20,39,2.7," 41,905 ", 4.7 ,1,Graduate,3,5,5,1,5,5,5,3,4,4,2,2,A
+Bennett-II,101598,Business Analyst,10,39,6.4," 54,662 ", 8.6 ,6,Graduate,4,4,2,4,4,1,5,2,5,4,5,4,A
+Allen-II,101250,Chief Data Scientist,8,39,11.7," 209,491 ", 15.8 ,4,Doctorate,1,1,3,1,4,3,3,4,3,4,4,5,B
+Alexander-II,101251,Domain Expert,6,39,7.5," 80,513 ", 7.5 ,1,Post Graduate,2,2,1,3,5,4,4,3,1,4,4,5,B
+Jones-II,101252,Domain Expert,14,39,11.2," 80,266 ", 11.2 ,2,Doctorate,1,2,5,3,5,4,2,2,2,5,4,2,B
+Turner-II,101254,Business Analyst,12,39,7.8," 60,930 ", 9.7 ,5,Graduate,2,5,4,4,4,4,5,5,5,3,3,1,A
+Mason-II,101255,Chief Data Scientist,8,39,9.1," 232,598 ", 10.5 ,3,Doctorate,5,1,3,4,4,4,3,5,5,2,4,3,B
+Roberts-II,101257,Data Analyst,6,39,12.9," 43,503 ", 14.4 ,5,Post Graduate,4,1,3,1,4,1,2,4,4,1,2,4,C
+Owens-II,101613,Business Analyst,8,58.5,6.2," 62,827 ", 6.2 ,1,Post Graduate,3,2,1,2,5,5,4,4,4,2,1,1,B
+Ellis-II,101260,Domain Expert,6,39,7.8," 78,039 ", 9.2 ,2,Doctorate,2,3,2,1,5,1,5,1,1,2,1,3,C
+Barrett-II,101263,Chief Data Scientist,6,58.5,2.4," 215,218 ", 17.3 ,1,Doctorate,1,3,2,1,5,2,3,2,1,4,4,1,C
+Wilson-II,101264,Chief Data Scientist,8,39,8.6," 189,990 ", 13.0 ,2,Doctorate,2,1,2,5,4,4,5,3,1,5,2,5,B
+Clark-II,101268,Business Analyst,8,58.5,10.6," 98,742 ", 10.6 ,6,Post Graduate,3,2,5,5,5,5,5,3,3,1,3,1,B
+Morgan-II,101650,Business Analyst,6,39,6.7," 69,155 ", 10.5 ,6,Graduate,4,1,3,3,4,4,4,4,4,3,3,2,B
+Carter-II,101684,Data Engineer,6,39,6.2," 47,003 ", 7.6 ,4,Graduate,1,5,3,2,5,1,5,3,5,2,1,2,B
+Kelly-II,101278,Domain Expert,10,58.5,30.1," 159,979 ", 31.4 ,7,Graduate,1,3,2,2,4,1,2,5,2,2,1,5,C
+Cunningham-II,101720,Data Analyst,8,58.5,6.2," 40,452 ", 8.5 ,6,Post Graduate,1,4,3,5,4,5,1,2,1,5,4,4,B
+Douglas-II,101757,Business Analyst,6,19.5,6.9," 53,107 ", 8.8 ,6,Graduate,1,1,2,3,5,1,2,1,4,5,2,1,C
+Jones-II,101768,Data Engineer,16,117,6.4," 32,591 ", 7.9 ,4,Graduate,3,1,1,5,4,4,4,1,3,2,1,5,B
+Grant-II,101285,Data Engineer,8,39,10," 52,364 ", 11.2 ,4,Graduate,5,4,1,5,5,4,3,2,1,2,4,4,B
+Riley-II,101289,Database Administrator,6,97.5,11.7," 52,906 ", 11.7 ,7,Graduate,5,2,3,2,5,2,5,3,1,4,5,5,B
+Montgomery-II,101792,Data Analyst,6,39,6.7," 37,596 ", 8.6 ,1,Post Graduate,4,5,1,2,5,1,3,2,4,1,2,5,B
+Cooper-II,101836,Business Analyst,8,78,6.4," 55,192 ", 9.0 ,6,Graduate,4,5,4,4,4,3,1,5,4,1,1,5,B
+Stewart-II,100001,Business Analyst,6,0,7.8," 70,616 ", 9.6 ,6,Graduate,3,1,2,4,4,5,3,2,5,4,2,1,B
+Myers-II,101296,Data Engineer,6,39,3.3," 45,565 ", 4.8 ,3,Graduate,2,4,2,1,4,2,4,2,3,5,5,1,B
+Elliott-II,100021,Data Analyst,6,97.5,7.7," 40,819 ", 7.7 ,3,Post Graduate,4,2,2,5,5,4,1,4,2,2,2,3,B
+Murphy-II,101298,Data Scientist,12,58.5,9.2," 55,321 ", 11.4 ,8,Doctorate,4,3,5,2,5,4,1,1,3,3,3,1,B
+Hall-II,100112,Data Scientist,6,58.5,7.8," 58,340 ", 10.7 ,1,Doctorate,5,5,3,1,4,1,4,5,5,1,3,2,B
+West-II,101304,Business Analyst,10,78,11.8," 73,161 ", 11.8 ,8,Graduate,1,2,5,2,4,2,1,3,4,4,3,1,C
+Casey-II,100192,Data Analyst,8,39,7.9," 41,808 ", 10.6 ,4,Post Graduate,3,3,5,3,4,2,1,5,4,4,1,3,B
+Warren-II,100269,Data Engineer,6,97.5,7.6," 37,579 ", 7.6 ,7,Post Graduate,4,2,5,3,5,1,5,1,1,1,3,3,B
+West-II,100299,Business Analyst,10,97.5,7.7," 60,803 ", 9.9 ,1,Graduate,2,1,4,5,5,5,3,1,4,3,5,1,B
+Casey-II,101312,Domain Expert,6,0,8.9," 83,589 ", 10.9 ,5,Graduate,4,3,5,4,5,2,2,5,3,5,4,3,A
+Payne-II,101314,Database Administrator,6,58.5,9," 40,333 ", 11.3 ,3,Post Graduate,2,4,4,3,5,4,3,4,4,4,3,4,A
+Stevens-II,101317,Chief Data Scientist,6,39,4," 198,898 ", 12.4 ,1,Doctorate,1,5,1,5,4,4,5,1,4,1,3,5,B
+Brown-II,100300,Data Analyst,8,19.5,7.9," 52,755 ", 10.1 ,5,Post Graduate,3,3,5,3,5,2,3,2,2,1,2,2,B
+Hamilton-II,101329,Business Analyst,8,78,15.7," 72,478 ", 19.4 ,4,Graduate,4,4,1,3,4,1,4,1,3,2,5,2,B
+Myers-II,100492,Business Analyst,6,117,8," 75,176 ", 11.9 ,3,Doctorate,4,5,1,5,5,3,2,2,1,1,4,2,B
+Morrison-II,100647,Data Engineer,10,78,7.9," 34,006 ", 9.8 ,4,Graduate,2,5,2,1,4,1,4,3,5,5,2,3,B
+Cameron-II,100690,Business Analyst,8,97.5,7.8," 65,525 ", 10.2 ,4,Graduate,4,1,3,1,5,5,3,1,2,2,4,3,B
+Campbell-II,101344,Domain Expert,6,0,10.1," 100,156 ", 11.8 ,3,Graduate,3,3,3,5,5,2,1,1,2,5,5,4,B
+Perkins-II,100949,Data Analyst,12,117,7.7," 55,121 ", 10.3 ,7,Graduate,1,5,4,2,5,2,3,2,5,4,1,5,B
+Ross-II,101350,Data Analyst,6,58.5,10.9," 50,066 ", 12.6 ,2,Post Graduate,2,5,5,5,4,3,1,3,2,5,3,4,B
+Adams-II,101355,Business Analyst,10,58.5,8.9," 81,221 ", 12.2 ,8,Doctorate,4,1,5,1,4,4,4,4,1,2,1,1,C
+Stewart-II,101356,Business Analyst,6,117,11.5," 72,171 ", 14.8 ,1,Graduate,4,1,5,4,5,2,2,1,2,3,2,4,B
+Nelson-II,100998,Domain Expert,8,39,7.5," 64,665 ", 7.5 ,7,Post Graduate,3,2,4,3,4,1,4,2,5,2,4,4,B
+Roberts-II,101360,Data Scientist,8,0,11.8," 117,925 ", 16.5 ,2,Doctorate,3,1,5,5,4,3,3,1,4,3,1,3,B
+Warren-II,101362,Business Analyst,10,39,10.2," 54,662 ", 10.2 ,4,Graduate,3,2,2,2,5,1,1,5,2,5,3,1,C
+Andrews-II,101363,Data Scientist,6,39,11.5," 93,063 ", 15.2 ,2,Doctorate,5,1,1,3,4,1,5,4,2,4,1,1,C
+Barrett-II,101161,Domain Expert,8,39,7.8," 67,529 ", 9.4 ,3,Graduate,1,5,4,2,4,5,4,2,4,3,1,2,B
+Carter-II,101367,Data Scientist,10,19.5,6.8," 154,853 ", 12.8 ,3,Graduate,5,1,4,3,4,3,1,3,3,3,2,5,B
+Wright-II,101369,Data Engineer,6,0,10.7," 63,193 ", 12.5 ,8,Graduate,4,4,5,1,5,1,4,4,2,5,2,3,B
+Campbell-II,101371,Business Analyst,14,58.5,7.9," 59,753 ", 9.6 ,6,Graduate,2,5,2,5,5,2,1,5,3,4,2,4,B
+Carter-II,101373,Data Scientist,6,0,20.3," 157,916 ", 23.1 ,3,Doctorate,5,4,3,5,5,2,4,2,2,2,5,4,B
+Cole-II,101375,Domain Expert,14,0,13.5," 75,141 ", 16.4 ,4,Post Graduate,3,5,5,4,5,5,3,3,1,4,5,1,A
+Scott-II,101377,Data Engineer,8,19.5,9.1," 63,970 ", 11.2 ,1,Post Graduate,4,3,3,1,5,4,5,2,5,3,2,5,B
+Higgins-II,101171,Business Analyst,8,58.5,7.9," 60,742 ", 9.9 ,4,Post Graduate,2,3,1,3,4,2,5,1,1,1,4,5,C
+Gray-II,101200,Data Analyst,6,78,7.1," 34,595 ", 8.4 ,4,Post Graduate,2,4,5,3,4,2,5,3,2,3,1,1,B
+Johnson-II,101383,Domain Expert,6,39,15.3," 78,794 ", 16.5 ,8,Doctorate,2,5,5,1,4,5,2,5,2,1,3,4,B
+Cole-II,101216,Data Engineer,6,39,7.8," 37,659 ", 8.8 ,4,Graduate,3,5,3,4,5,5,4,4,4,4,5,3,A
+Grant-II,101394,Data Analyst,10,39,7.6," 35,302 ", 9.1 ,5,Graduate,3,3,2,1,4,4,5,2,3,3,5,4,B
+Anderson-II,101390,Business Analyst,6,39,6.7," 72,112 ", 9.8 ,1,Post Graduate,5,1,3,3,4,3,3,2,5,1,4,4,B
+Farrell-II,101402,Data Analyst,8,58.5,7.9," 48,086 ", 10.7 ,4,Graduate,4,3,1,4,5,5,5,2,5,1,4,2,B
+Hill-II,101397,Domain Expert,16,39,7.7," 128,671 ", 12.6 ,7,Post Graduate,2,3,2,4,4,5,1,2,3,2,2,5,B
+Hall-II,101403,Business Analyst,6,58.5,7.8," 67,976 ", 10.9 ,6,Graduate,4,3,4,5,5,2,5,1,3,4,2,3,B
+Douglas-II,101401,Data Scientist,6,58.5,6.1," 156,090 ", 12.1 ,1,Graduate,4,4,1,5,5,2,4,5,3,4,3,1,B
+Harris-II,101438,Data Analyst,6,39,7.2," 40,299 ", 10.1 ,2,Graduate,2,5,1,4,4,3,1,5,5,1,1,3,B
+Stewart-II,101440,Data Engineer,8,39,7.2," 41,241 ", 8.3 ,1,Post Graduate,1,1,5,3,5,4,1,3,4,3,5,4,B
+Smith-II,101670,Business Analyst,8,97.5,7.1," 64,866 ", 8.5 ,4,Post Graduate,1,1,1,4,4,3,4,1,2,2,2,2,C
+Ryan-II,101407,Data Analyst,6,39,5.9," 46,001 ", 8.9 ,5,Graduate,4,1,2,2,5,2,5,5,5,4,5,1,B
+Armstrong-II,101751,Data Analyst,6,97.5,7.3," 40,593 ", 7.3 ,2,Post Graduate,2,2,4,2,4,3,2,2,1,4,1,2,C
+Holmes-II,100079,Data Engineer,6,39,8.1," 41,762 ", 10.0 ,5,Graduate,3,3,4,2,5,5,3,2,1,5,5,2,B
+Mason-II,101412,Data Scientist,6,39,3.6," 110,313 ", 7.6 ,1,Post Graduate,3,1,1,5,4,1,1,1,2,2,5,2,C
+Elliott-II,100160,Business Analyst,8,39,9," 69,428 ", 12.2 ,5,Post Graduate,1,5,1,4,4,3,2,2,3,1,2,4,C
+Bennett-II,101417,Data Engineer,6,39,8.7," 42,160 ", 8.7 ,1,Graduate,1,2,3,2,5,3,2,1,4,5,1,5,B
+Payne-II,101419,Database Administrator,8,58.5,11.8," 74,123 ", 14.5 ,2,Post Graduate,5,3,5,1,5,1,4,2,1,1,3,1,C
+Anderson-II,100163,Business Analyst,12,58.5,8.3," 66,200 ", 10.6 ,2,Graduate,4,4,3,4,5,5,3,4,3,5,1,4,A
+Murphy-II,100199,Data Architect,8,39,8.1," 74,553 ", 9.7 ,2,Post Graduate,1,3,4,2,5,1,4,4,2,5,4,4,B
+Williams-II,101422,Chief Data Scientist,14,58.5,21.2," 204,177 ", 30.1 ,4,Doctorate,1,4,1,4,5,1,5,2,4,2,5,5,B
+Mitchell-II,101423,Chief Data Scientist,16,58.5,10.3," 232,138 ", 12.4 ,6,Doctorate,1,3,1,1,5,1,1,2,5,2,4,3,C
+Henderson-II,101424,Chief Data Scientist,8,78,9," 173,589 ", 17.3 ,3,Doctorate,4,4,2,1,5,3,5,2,5,3,1,1,B
+Grant-II,100319,Data Architect,6,58.5,8.3," 87,420 ", 12.4 ,3,Graduate,4,5,5,2,4,4,3,4,5,1,1,4,B
+Nelson-II,100323,Data Architect,6,58.5,8.3," 83,591 ", 10.5 ,3,Graduate,3,4,2,2,4,3,4,2,3,3,2,1,B
+Fowler-II,101430,Chief Data Scientist,6,58.5,4," 193,502 ", 14.0 ,3,Doctorate,2,2,2,4,5,4,3,4,3,5,3,5,B
+Robinson-II,100446,Business Analyst,8,117,8.6," 55,168 ", 9.8 ,8,Graduate,3,4,5,2,5,5,2,4,2,4,4,1,B
+Nelson-II,100454,Data Engineer,6,78,8.4," 34,968 ", 10.3 ,6,Graduate,1,1,2,4,5,3,3,4,4,2,2,4,B
+Craig-II,100500,Business Analyst,6,39,8.1," 58,161 ", 9.4 ,5,Graduate,1,4,1,3,4,1,4,2,4,3,1,4,C
+Miller-II,100728,Business Analyst,6,39,8.4," 58,444 ", 9.5 ,6,Graduate,5,3,3,3,4,1,4,3,1,2,3,4,B
+Cunningham-II,100741,Data Analyst,8,78,8.8," 36,111 ", 10.2 ,6,Post Graduate,5,3,1,5,5,1,2,4,5,2,3,4,B
+Kelly-II,100764,Domain Expert,14,39,8," 80,254 ", 11.2 ,1,Post Graduate,2,4,3,4,4,5,3,2,2,5,4,1,B
+Armstrong-II,101443,Chief Data Scientist,14,39,21.4," 202,304 ", 21.4 ,1,Doctorate,5,2,5,3,5,2,1,5,2,5,3,3,B
+Myers-II,100927,Data Engineer,8,19.5,8.5," 32,734 ", 9.8 ,7,Graduate,4,1,4,1,4,4,3,4,4,1,4,3,B
+Chapman-II,101449,Data Engineer,6,39,9.6," 46,837 ", 10.7 ,7,Post Graduate,4,3,4,3,5,4,4,3,3,4,5,1,B
+Barnes-II,101458,Data Engineer,18,39,2.7," 42,961 ", 2.7 ,1,Post Graduate,1,2,1,4,4,5,2,3,1,4,1,4,C
+Richardson-II,100941,Software Developer,10,39,8.6," 27,443 ", 10.3 ,5,Post Graduate,2,5,4,4,4,3,2,4,4,4,3,4,B
+Cooper-II,101460,Domain Expert,12,39,8.2," 127,858 ", 10.2 ,1,Graduate,4,5,4,4,4,4,3,4,3,4,5,1,A
+Nelson-II,100956,Business Analyst,6,39,8.4," 50,596 ", 9.5 ,7,Graduate,1,4,4,5,5,2,4,2,2,3,3,3,B
+Alexander-II,101465,Data Scientist,12,78,4.5," 110,526 ", 7.0 ,1,Doctorate,4,5,4,4,4,2,2,3,4,2,4,4,B
+Scott-II,100990,Business Analyst,8,58.5,8.7," 59,846 ", 10.6 ,5,Graduate,3,5,2,3,5,5,3,3,5,2,2,4,B
+Allen-II,101468,Chief Data Scientist,6,78,10.2," 162,100 ", 13.7 ,3,Post Graduate,4,5,1,3,4,3,1,5,5,4,3,2,B
+Turner-II,101469,Business Analyst,12,78,6.4," 99,720 ", 6.4 ,1,Doctorate,4,2,3,3,5,5,3,2,5,3,1,5,B
+Grant-II,101106,Data Engineer,10,58.5,9," 43,491 ", 10.4 ,5,Graduate,5,3,5,3,4,1,4,1,3,2,2,4,B
+Hill-II,101472,Chief Data Scientist,6,39,10.7," 195,575 ", 10.7 ,1,Post Graduate,1,2,2,4,4,2,4,3,1,1,2,5,C
+Johnston-II,101473,Domain Expert,8,0,4.1," 78,369 ", 5.8 ,2,Post Graduate,4,5,4,2,4,1,5,4,3,5,2,4,B
+Murray-II,101143,Data Analyst,8,39,8.7," 38,778 ", 9.8 ,1,Post Graduate,3,4,4,4,5,1,1,1,4,5,1,1,B
+Barrett-II,101221,Data Engineer,8,78,9," 32,298 ", 10.1 ,4,Graduate,4,3,1,4,5,3,3,5,1,4,1,2,B
+Dixon-II,101478,Business Analyst,12,39,14.1," 56,076 ", 16.9 ,6,Graduate,1,3,1,4,5,5,3,5,3,3,1,3,B
+Anderson-II,101224,Data Engineer,8,78,8.4," 41,135 ", 10.5 ,8,Graduate,5,1,5,3,4,2,3,3,2,3,5,4,B
+Turner-II,101480,Data Engineer,8,58.5,8.4," 43,280 ", 9.5 ,6,Graduate,1,4,2,2,4,2,5,5,4,2,4,2,B
+Bailey-II,101297,Data Engineer,8,117,8.6," 33,440 ", 10.6 ,7,Graduate,5,1,1,2,5,5,3,5,4,2,5,5,B
+Smith-II,101483,Data Analyst,18,39,13.3," 57,736 ", 13.3 ,2,Post Graduate,4,2,3,2,5,4,1,4,5,4,1,3,B
+Murray-II,101484,Domain Expert,8,58.5,9.1," 123,322 ", 16.0 ,8,Graduate,3,4,1,3,4,1,3,3,3,5,5,5,B
+Richards-II,101485,Chief Data Scientist,8,58.5,15.1," 200,395 ", 17.2 ,7,Doctorate,2,1,3,2,5,5,5,5,2,5,5,3,B
+Kelly-II,101299,Data Engineer,8,39,8.5," 39,344 ", 9.8 ,4,Graduate,3,4,2,2,4,5,1,1,5,4,4,1,B
+Rogers-II,101537,Data Analyst,6,39,8.4," 48,122 ", 8.4 ,7,Post Graduate,4,2,2,4,5,4,5,1,1,2,2,4,B
+Russell-II,101489,Business Analyst,18,39,8.2," 54,190 ", 8.2 ,3,Graduate,4,2,5,4,5,5,2,5,2,5,4,1,A
+Barrett-II,101555,Data Scientist,6,39,8.9," 69,261 ", 10.4 ,6,Post Graduate,3,3,1,3,5,4,2,5,3,4,3,4,B
+Barnes-II,101618,Data Scientist,8,58.5,8.2," 63,357 ", 8.2 ,3,Graduate,1,2,4,4,5,4,2,4,1,5,5,4,B
+Ferguson-II,101496,Data Scientist,12,39,3.3," 120,293 ", 6.7 ,3,Post Graduate,3,5,2,5,5,3,3,2,5,4,2,3,B
+Richardson-II,101804,Data Scientist,8,97.5,8.5," 67,895 ", 12.0 ,2,Post Graduate,1,5,2,5,5,3,1,4,1,5,1,1,B
+Warren-II,101503,Business Analyst,12,78,6.6," 54,096 ", 8.0 ,3,Graduate,1,3,1,2,5,5,3,1,5,4,4,1,B
+Phillips-II,101807,Data Engineer,12,58.5,8.2," 62,993 ", 8.2 ,5,Post Graduate,2,2,2,4,4,1,4,1,2,3,4,5,B
+Kelly-II,100041,Data Engineer,8,97.5,9.1," 47,206 ", 11.7 ,1,Post Graduate,2,3,3,2,4,2,3,1,3,4,3,5,B
+Morrison-II,101509,Data Engineer,20,58.5,4.7," 56,430 ", 7.3 ,2,Graduate,3,1,5,3,4,2,2,3,3,5,1,2,B
+Brown-II,100238,Data Engineer,6,58.5,9.3," 41,926 ", 10.8 ,8,Post Graduate,3,1,1,5,4,4,4,1,5,1,5,4,B
+Murray-II,101514,Data Scientist,8,39,9.6," 77,167 ", 10.7 ,1,Post Graduate,2,5,4,3,4,4,3,2,3,1,2,2,B
+Perkins-II,101515,Domain Expert,12,78,1.8," 75,271 ", 4.9 ,1,Post Graduate,3,4,3,2,5,5,4,4,2,1,3,3,B
+Barrett-II,100267,Data Analyst,6,58.5,10," 40,571 ", 11.2 ,2,Post Graduate,4,4,5,4,5,3,2,1,5,5,3,2,B
+Adams-II,101523,Chief Data Scientist,8,19.5,21.8," 192,394 ", 23.7 ,3,Doctorate,1,4,4,3,5,4,1,5,1,3,3,3,B
+Grant-II,101525,Data Scientist,12,58.5,3.1," 98,695 ", 5.3 ,3,Doctorate,2,5,5,5,5,4,1,4,5,2,3,1,B
+Miller-II,101529,Domain Expert,14,58.5,12.9," 101,405 ", 12.9 ,3,Graduate,2,2,5,4,4,4,2,1,1,1,2,3,C
+Dixon-II,100401,Business Analyst,6,0,9.8," 68,672 ", 9.8 ,3,Graduate,1,2,5,5,5,5,3,5,4,3,5,5,A
+Ellis-II,101535,Business Analyst,8,58.5,11.7," 83,460 ", 14.2 ,4,Post Graduate,2,4,3,2,5,2,4,1,3,4,4,1,B
+Morgan-II,100433,Data Analyst,10,58.5,9.5," 58,221 ", 11.2 ,1,Graduate,2,5,3,1,5,4,2,2,4,1,2,2,B
+Alexander-II,101539,Chief Data Scientist,8,39,30.4," 169,806 ", 36.7 ,5,Post Graduate,4,1,3,4,5,4,5,3,4,2,2,4,B
+Walker-II,101541,Software Developer,20,78,4.9," 41,196 ", 6.9 ,4,Post Graduate,2,5,4,2,4,4,5,4,2,5,1,5,B
+Wright-II,101542,Data Engineer,8,58.5,2.4," 57,042 ", 4.1 ,2,Graduate,3,1,3,3,4,1,3,1,4,1,4,5,B
+Henderson-II,101543,Data Analyst,12,39,11.4," 50,490 ", 13.7 ,3,Post Graduate,5,4,4,1,4,1,5,1,3,1,2,1,C
+Bennett-II,101544,Domain Expert,8,58.5,8.3," 114,472 ", 11.1 ,1,Graduate,2,4,1,3,5,3,3,1,1,5,4,3,B
+Evans-II,101547,Domain Expert,8,58.5,21.1," 119,291 ", 21.1 ,6,Post Graduate,1,2,3,5,4,4,5,4,4,1,2,3,B
+Ellis-II,100848,Data Analyst,8,39,9.3," 37,879 ", 10.9 ,8,Post Graduate,2,5,2,4,4,2,3,4,3,3,2,4,B
+Johnson-II,101549,Data Engineer,6,58.5,12.4," 61,355 ", 14.3 ,3,Post Graduate,2,1,1,4,5,5,5,4,1,5,1,4,B
+Wells-II,101553,Domain Expert,6,78,11.1," 87,678 ", 15.3 ,8,Post Graduate,3,1,1,4,5,4,1,1,1,2,5,2,C
+Watson-II,101554,Software Developer,18,97.5,6.4," 28,632 ", 6.4 ,1,Post Graduate,2,2,5,5,5,3,1,3,2,2,5,5,B
+Taylor-II,101018,Data Scientist,6,39,9.2," 64,476 ", 11.3 ,7,Doctorate,3,4,2,4,5,3,2,4,3,4,2,1,B
+Davis-II,101556,Software Developer,16,58.5,4.8," 31,155 ", 6.7 ,2,Graduate,4,1,3,1,4,4,5,4,4,5,3,2,B
+Fowler-II,101557,Business Analyst,8,39,9.5," 75,871 ", 13.1 ,5,Graduate,4,1,3,5,4,2,5,5,2,4,4,5,A
+Tucker-II,101319,Business Analyst,14,39,9.8," 99,520 ", 14.7 ,2,Post Graduate,1,1,2,3,4,5,3,3,4,1,3,5,B
+Craig-II,101563,Database Administrator,6,39,7.1," 71,605 ", 10.7 ,7,Post Graduate,3,5,5,3,4,2,3,2,3,2,4,3,B
+Hill-II,101405,Data Analyst,8,39,9," 38,209 ", 10.2 ,7,Graduate,1,3,1,2,4,3,4,4,4,1,5,3,B
+Thomas-II,101572,Data Scientist,10,78,18.7," 119,823 ", 19.8 ,8,Graduate,5,1,1,2,5,4,4,2,1,4,2,2,B
+Williams-II,101421,Domain Expert,6,19.5,9.8," 88,998 ", 14.6 ,1,Doctorate,5,4,2,5,5,1,4,5,5,5,3,5,A
+Farrell-II,101574,Data Analyst,8,58.5,7.3," 48,158 ", 10.0 ,3,Graduate,4,5,1,1,4,2,5,3,5,5,4,4,B
+Gray-II,101548,Business Analyst,6,97.5,9.3," 64,489 ", 12.1 ,5,Post Graduate,4,5,5,2,4,1,1,4,3,4,2,3,B
+Richardson-II,101585,Business Analyst,8,97.5,2.8," 80,302 ", 5.8 ,1,Post Graduate,3,5,4,2,5,2,2,4,5,4,2,2,B
+Hill-II,101586,Data Engineer,12,58.5,11.2," 55,651 ", 11.2 ,4,Graduate,5,2,3,2,4,4,4,4,3,4,2,5,B
+Campbell-II,101587,Domain Expert,10,78,6.2," 72,371 ", 9.8 ,3,Graduate,5,4,2,2,5,1,5,5,3,3,2,2,B
+Wright-II,101588,Business Analyst,6,58.5,8.7," 97,057 ", 8.7 ,3,Post Graduate,5,2,1,2,4,4,2,3,1,2,1,3,C
+Warren-II,101590,Domain Expert,14,0,7.7," 104,316 ", 9.8 ,3,Graduate,2,5,1,4,4,5,2,1,4,1,3,5,B
+Brown-II,101594,Data Engineer,8,58.5,4.9," 65,538 ", 7.6 ,4,Graduate,3,1,3,1,5,2,1,4,3,1,2,2,C
+Fowler-II,101597,Domain Expert,8,58.5,9.7," 59,657 ", 11.3 ,7,Doctorate,2,5,3,2,4,5,3,3,4,3,3,5,B
+Parker-II,101898,Business Analyst,8,97.5,9.2," 76,590 ", 10.9 ,5,Graduate,4,5,5,4,4,3,1,1,2,3,5,5,B
+Barnes-II,100056,Business Analyst,10,0,10.2," 57,280 ", 12.3 ,4,Graduate,3,4,1,2,5,4,1,2,2,3,1,2,C
+Dixon-II,101599,Data Engineer,6,0,7.1," 57,455 ", 9.2 ,1,Graduate,4,1,3,5,5,5,1,3,1,3,4,1,B
+Carter-II,100081,Business Analyst,6,58.5,10.5," 57,256 ", 10.5 ,5,Graduate,1,2,2,3,5,4,2,5,2,1,5,1,B
+Mitchell-II,101604,Data Engineer,12,58.5,2.8," 38,374 ", 4.2 ,2,Graduate,2,3,1,3,5,2,3,3,5,2,1,5,B
+Cole-II,101606,Domain Expert,10,58.5,22.4," 132,501 ", 22.4 ,6,Graduate,5,2,1,2,5,3,3,4,1,1,1,1,C
+Kelley-II,100118,Business Analyst,10,58.5,10.8," 58,046 ", 12.0 ,1,Graduate,5,5,5,5,5,4,5,5,4,3,4,1,A
+Howard-II,101608,Chief Data Scientist,8,78,23.6," 224,456 ", 23.6 ,2,Doctorate,3,2,3,4,5,3,2,2,5,5,5,3,B
+Bennett-II,100259,Data Architect,8,97.5,10.9," 71,176 ", 12.7 ,1,Graduate,2,1,5,1,5,2,1,1,5,5,5,5,B
+Harris-II,100351,Data Engineer,6,78,10.4," 42,151 ", 11.8 ,4,Graduate,5,5,3,4,5,5,3,5,2,2,5,5,A
+Stewart-II,100823,Data Scientist,10,39,10.2," 61,602 ", 12.5 ,1,Doctorate,1,3,4,2,4,4,5,4,5,5,2,3,B
+Wright-II,100842,Business Analyst,10,58.5,10.9," 60,800 ", 13.5 ,5,Graduate,1,4,2,2,5,4,4,2,4,5,1,2,B
+Wilson-II,100961,Domain Expert,6,39,10.8," 68,990 ", 13.1 ,3,Doctorate,2,3,5,4,5,4,5,3,3,4,3,5,A
+Ferguson-II,101619,Data Engineer,6,58.5,8.5," 47,909 ", 9.7 ,7,Graduate,5,3,5,1,4,1,2,4,2,1,1,1,C
+Hawkins-II,101622,Data Scientist,16,97.5,6.1," 57,466 ", 6.1 ,3,Doctorate,4,2,1,3,5,2,4,3,1,2,5,5,B
+Elliott-II,101623,Data Analyst,12,39,3.8," 36,727 ", 4.9 ,3,Post Graduate,1,1,5,2,5,5,5,2,1,4,3,3,B
+Harris-II,100972,Data Engineer,6,97.5,11," 52,400 ", 12.6 ,8,Graduate,2,5,5,2,4,4,1,4,5,4,3,2,B
+Alexander-II,101283,Data Scientist,6,97.5,10," 123,863 ", 10.0 ,4,Post Graduate,3,2,1,4,5,2,1,4,4,4,1,1,C
+Cunningham-II,101628,Data Scientist,8,39,19.4," 122,957 ", 22.5 ,8,Post Graduate,1,1,4,5,4,5,4,3,5,2,1,2,B
+Mitchell-II,101631,Data Scientist,12,39,5.6," 67,965 ", 9.6 ,4,Post Graduate,1,4,1,4,5,3,4,3,2,5,1,2,B
+Armstrong-II,101311,Data Engineer,6,117,10.7," 54,520 ", 11.8 ,2,Graduate,2,4,5,3,4,1,1,5,2,5,2,1,B
+Grant-II,101635,Data Scientist,14,58.5,11.1," 67,988 ", 11.1 ,4,Graduate,4,2,5,5,4,4,2,3,4,4,2,3,B
+Gray-II,101638,Data Scientist,14,97.5,6," 91,389 ", 8.1 ,2,Post Graduate,2,5,4,5,5,3,1,2,1,4,4,2,B
+Holmes-II,101640,Data Analyst,6,39,9.4," 46,378 ", 9.4 ,2,Graduate,5,2,4,3,4,5,2,4,4,2,1,3,B
+Andrews-II,101346,Data Analyst,8,78,10.5," 54,921 ", 11.9 ,5,Post Graduate,2,4,5,4,4,3,2,4,3,4,2,3,B
+Perkins-II,101642,Database Administrator,6,58.5,11.4," 67,670 ", 13.7 ,6,Post Graduate,5,1,4,5,5,5,4,1,5,5,3,1,A
+Jones-II,101522,Data Analyst,8,39,10.5," 37,832 ", 11.8 ,7,Post Graduate,1,4,5,3,5,4,2,2,1,5,1,1,B
+Kate-IV,101646,Data Analyst,8,39,7.2," 44,305 ", 9.4 ,1,Post Graduate,3,3,5,2,5,3,5,4,5,2,3,4,A
+Sabrina-IV,101615,Data Scientist,8,58.5,10.6," 55,664 ", 10.6 ,2,Doctorate,4,2,4,5,5,2,3,4,3,5,3,3,B
+Lilianna-IV,101617,Data Engineer,8,58.5,10.9," 47,835 ", 12.4 ,5,Graduate,1,3,5,5,5,5,1,5,2,1,1,2,B
+Ada-IV,101633,Data Scientist,8,39,10.7," 59,410 ", 12.1 ,3,Post Graduate,2,3,5,3,5,4,5,1,1,4,4,3,B
+Nicole-IV,101691,Software Developer,6,58.5,10.5," 31,285 ", 12.0 ,8,Post Graduate,3,1,4,3,5,2,1,4,1,2,2,4,C
+Jenna-IV,101653,Data Scientist,12,97.5,8.6," 61,342 ", 12.4 ,1,Graduate,4,3,3,1,5,2,5,2,4,1,1,3,B
+Fenton-IV,101654,Data Scientist,16,58.5,6.4," 62,391 ", 8.2 ,3,Doctorate,3,4,4,3,4,5,2,1,2,4,4,5,B
+Abigail-IV,101655,Chief Data Scientist,10,39,5.4," 193,396 ", 10.7 ,3,Doctorate,1,3,4,5,5,3,4,1,4,1,3,3,B
+Adrianna-IV,101656,Chief Data Scientist,10,58.5,15.1," 156,350 ", 18.3 ,1,Post Graduate,5,1,2,1,5,3,4,4,5,5,3,4,B
+Michelle-IV,101657,Software Developer,14,58.5,3.8," 32,793 ", 5.2 ,3,Graduate,2,3,5,2,4,4,3,1,4,1,3,3,B
+Kevin-IV,101661,Domain Expert,14,58.5,16.5," 164,562 ", 20.4 ,1,Graduate,4,3,5,1,4,5,4,4,1,3,4,4,B
+David-IV,101664,Domain Expert,14,58.5,6.3," 80,620 ", 6.3 ,6,Doctorate,3,2,4,3,5,3,4,3,1,1,3,3,B
+Melanie-IV,101666,Chief Data Scientist,18,58.5,15.1," 207,418 ", 15.1 ,2,Doctorate,4,2,3,5,5,5,5,4,5,1,2,5,A
+Rosie-IV,101667,Business Analyst,18,39,12.2," 53,979 ", 13.9 ,7,Graduate,4,1,5,4,5,2,4,5,3,3,5,4,A
+Nicholas-IV,101668,Data Analyst,10,78,14," 55,793 ", 14.0 ,5,Post Graduate,1,2,1,2,4,5,4,2,5,5,4,3,B
+April-IV,101771,Data Analyst,10,39,10.3," 35,997 ", 10.3 ,2,Post Graduate,2,2,4,2,5,5,4,2,2,5,4,5,B
+Sam-IV,101778,Database Administrator,8,97.5,10.8," 41,701 ", 10.8 ,3,Graduate,4,2,3,2,5,5,2,3,1,2,1,1,C
+Eric-IV,101888,Data Scientist,8,39,11," 69,591 ", 12.8 ,4,Graduate,2,5,5,2,4,1,5,3,2,2,4,3,B
+Freddie-IV,101678,Business Analyst,10,39,3.6," 83,447 ", 3.6 ,1,Post Graduate,3,2,5,5,4,2,4,3,1,2,2,3,B
+Andrew-IV,101680,Software Developer,6,58.5,3.3," 32,144 ", 4.6 ,1,Graduate,1,1,2,5,5,4,5,1,2,3,3,2,B
+Samantha-IV,101681,Business Analyst,20,39,7.4," 63,251 ", 11.0 ,3,Graduate,5,4,2,4,4,3,5,4,5,4,1,4,A
+Emily-IV,100124,Domain Expert,8,78,11.6," 57,173 ", 11.6 ,2,Post Graduate,2,2,3,3,5,4,1,3,2,2,4,5,B
+Derek-IV,100204,Business Analyst,8,58.5,11.1," 65,881 ", 13.6 ,5,Graduate,2,1,3,2,4,2,5,3,4,4,5,1,B
+Edgar-IV,100253,Data Architect,8,39,11.5," 76,761 ", 11.5 ,5,Graduate,3,2,3,2,4,5,1,2,1,3,3,5,B
+Alan-IV,101689,Domain Expert,10,39,5.7," 82,541 ", 5.7 ,5,Doctorate,4,2,1,5,4,5,3,3,1,4,2,3,B
+Ryan-IV,100283,Business Analyst,16,58.5,11.1," 71,255 ", 14.1 ,6,Graduate,2,5,3,5,4,4,4,2,4,1,4,2,B
+Abigail-IV,100296,Chief Data Scientist,10,78,11.1," 137,519 ", 11.1 ,5,Post Graduate,3,2,5,1,5,4,4,4,3,5,1,2,B
+Nicholas-IV,101693,Data Engineer,14,97.5,8.6," 30,283 ", 9.9 ,3,Graduate,3,4,3,4,5,3,2,4,2,2,3,2,B
+Cherry-IV,100550,Data Scientist,8,97.5,11.8," 56,677 ", 13.0 ,7,Post Graduate,3,1,1,5,4,3,2,5,5,3,3,2,B
+Owen-IV,101696,Data Engineer,8,58.5,10.9," 46,967 ", 13.5 ,6,Post Graduate,2,3,2,4,4,3,4,4,2,2,3,3,B
+Olivia-IV,101697,Domain Expert,14,39,2.7," 128,235 ", 8.7 ,2,Doctorate,1,1,1,2,4,1,4,4,3,2,2,5,C
+Antony-IV,101702,Software Developer,16,39,4.3," 36,807 ", 5.5 ,2,Graduate,5,3,5,2,5,3,1,5,2,5,3,4,B
+Carina-IV,101703,Domain Expert,14,39,9.5," 92,840 ", 9.5 ,1,Graduate,1,2,4,5,4,2,2,3,5,3,3,2,B
+Arnold-IV,101704,Data Analyst,8,39,6.5," 58,091 ", 7.9 ,6,Graduate,1,1,1,3,4,1,2,4,5,5,5,2,B
+Adelaide-IV,101706,Business Analyst,12,58.5,11.4," 92,461 ", 11.4 ,8,Doctorate,3,2,3,3,5,5,5,2,5,5,1,4,B
+Eric-IV,101707,Data Analyst,10,19.5,6," 51,858 ", 7.9 ,3,Post Graduate,3,1,4,2,4,5,5,1,5,2,4,4,B
+Luke-IV,101709,Data Engineer,12,39,7," 35,042 ", 8.7 ,5,Graduate,4,3,4,2,5,2,5,2,4,4,2,5,B
+Hailey-IV,101710,Software Developer,10,39,12.6," 53,047 ", 12.6 ,2,Graduate,3,2,4,5,5,1,5,5,1,4,3,5,B
+James-IV,101712,Domain Expert,18,58.5,24.4," 126,644 ", 26.1 ,1,Graduate,3,1,2,2,4,1,4,4,4,4,5,1,B
+Aldus-IV,101719,Chief Data Scientist,6,39,22.5," 196,824 ", 28.6 ,5,Doctorate,2,1,5,2,4,2,3,1,1,2,3,2,C
+Adele-IV,100621,Business Analyst,6,58.5,11.7," 62,887 ", 14.3 ,1,Graduate,4,3,2,1,4,2,2,1,2,5,1,5,C
+Belinda-IV,101721,Data Engineer,8,39,6.9," 40,969 ", 8.0 ,4,Post Graduate,1,1,3,1,5,3,2,1,2,2,2,2,C
+Rubie-IV,101722,Database Administrator,14,78,4.6," 75,765 ", 8.3 ,1,Post Graduate,4,1,1,3,5,1,5,2,2,2,2,3,C
+Max-IV,101724,Data Scientist,10,58.5,3," 76,779 ", 6.7 ,3,Doctorate,2,1,3,3,4,2,4,4,4,1,3,4,B
+Paige-IV,101725,Data Engineer,8,39,7.1," 46,037 ", 9.9 ,5,Graduate,3,5,3,5,4,4,2,4,4,3,1,2,B
+Lana-IV,100702,Data Analyst,6,58.5,11.9," 39,450 ", 13.1 ,4,Graduate,1,3,1,5,4,1,1,1,4,5,1,2,C
+Richard-IV,101728,Data Scientist,10,58.5,8.4," 81,103 ", 13.3 ,4,Graduate,3,1,3,3,5,2,4,4,3,1,2,5,B
+Miranda-IV,100722,Business Analyst,6,39,11.5," 63,582 ", 11.5 ,2,Graduate,2,2,1,5,4,3,5,4,3,4,2,1,B
+Vanessa-IV,100780,Data Analyst,8,39,12," 38,649 ", 13.9 ,3,Post Graduate,5,3,1,4,5,3,1,4,3,4,1,5,B
+April-IV,100881,Data Analyst,14,58.5,11.1," 43,826 ", 12.9 ,6,Graduate,3,5,5,2,5,5,3,3,2,1,1,3,B
+Charlotte-IV,101081,Data Analyst,6,39,11.8," 38,998 ", 13.2 ,4,Post Graduate,2,4,4,2,4,4,2,4,1,4,5,4,B
+Nicholas-IV,101736,Data Scientist,14,58.5,6.1," 61,719 ", 6.1 ,4,Doctorate,2,2,1,4,4,4,5,5,4,5,3,5,A
+Kirsten-IV,101745,Data Analyst,10,39,10.3," 58,538 ", 12.1 ,7,Post Graduate,2,5,2,2,4,4,5,3,3,2,2,5,B
+Kevin-IV,101749,Business Analyst,14,58.5,6.1," 98,342 ", 9.5 ,4,Post Graduate,3,4,4,1,5,2,2,5,4,1,2,4,B
+Jenna-IV,101085,Data Analyst,8,58.5,11.5," 39,780 ", 13.0 ,7,Post Graduate,4,1,4,2,5,2,5,2,2,4,5,2,B
+Daniel-IV,101150,Data Scientist,10,39,11.9," 59,575 ", 13.1 ,5,Post Graduate,5,4,2,4,4,1,3,3,1,4,1,3,B
+Eleanor-IV,101753,Domain Expert,6,78,4.4," 74,163 ", 6.3 ,1,Post Graduate,2,1,4,3,5,2,3,1,1,5,3,4,B
+Miranda-IV,101754,Business Analyst,6,39,8.3," 84,132 ", 8.3 ,7,Post Graduate,3,2,5,2,4,1,2,3,2,5,1,3,B
+Sawyer-IV,101220,Business Analyst,6,58.5,11.8," 53,483 ", 13.8 ,1,Graduate,1,4,3,3,4,5,5,5,1,4,1,4,B
+Kate-IV,101295,Domain Expert,6,39,11.5," 94,006 ", 11.5 ,3,Post Graduate,1,2,5,1,4,1,5,1,3,1,2,5,C
+Fenton-IV,101309,Data Engineer,12,58.5,11.8," 57,536 ", 13.5 ,8,Graduate,5,5,4,1,4,1,3,4,4,1,4,4,B
+Roland-IV,101763,Domain Expert,10,58.5,8.8," 62,380 ", 11.9 ,2,Graduate,3,3,2,1,5,2,2,3,2,1,5,1,C
+Daisy-IV,101766,Domain Expert,10,39,2.7," 68,471 ", 5.9 ,2,Post Graduate,1,4,2,3,5,1,4,3,4,4,4,2,B
+Mary-IV,101389,Data Scientist,10,58.5,11.6," 72,807 ", 11.6 ,7,Graduate,5,2,4,1,4,3,4,4,4,5,3,2,B
+Stuart-IV,101459,Data Scientist,6,39,11.5," 87,736 ", 15.3 ,5,Post Graduate,2,1,1,1,5,1,5,3,4,1,5,3,C
+Grace-IV,101770,Chief Data Scientist,6,39,2.3," 224,326 ", 12.8 ,1,Doctorate,1,3,3,4,5,2,2,4,4,4,2,4,B
+Violet-IV,101612,Business Analyst,10,39,11.7," 51,669 ", 14.3 ,1,Graduate,1,3,2,5,4,4,4,4,5,2,1,5,B
+Isabella-IV,101775,Data Scientist,14,39,4.4," 152,767 ", 4.4 ,3,Doctorate,2,2,5,3,4,2,1,4,3,1,4,4,B
+Luke-IV,101673,Business Analyst,6,39,11.3," 64,525 ", 14.4 ,6,Post Graduate,4,4,4,5,4,2,3,1,3,2,1,3,B
+Aiden-IV,101779,Business Analyst,6,58.5,3.2," 71,040 ", 5.7 ,2,Post Graduate,2,3,2,4,4,2,1,2,5,4,5,5,B
+Jared-IV,101727,Domain Expert,8,58.5,11.1," 65,538 ", 12.8 ,1,Doctorate,5,1,3,3,4,3,3,1,2,2,5,2,B
+Honey-IV,101782,Data Engineer,6,58.5,6.8," 43,620 ", 9.4 ,4,Post Graduate,4,1,1,1,5,1,3,5,2,5,1,5,B
+Belinda-IV,101783,Data Engineer,12,117,2.7," 38,256 ", 4.5 ,2,Graduate,3,1,5,3,5,5,1,4,3,1,4,5,B
+Patrick-IV,101794,Database Administrator,8,78,11.7," 47,969 ", 14.0 ,7,Post Graduate,1,1,2,5,5,4,4,3,5,4,5,2,B
+Rosie-IV,101789,Chief Data Scientist,12,58.5,3.6," 227,743 ", 15.4 ,1,Doctorate,5,5,1,3,4,1,3,2,2,1,2,1,C
+Fiona-IV,101790,Domain Expert,8,19.5,13.7," 98,048 ", 15.3 ,1,Post Graduate,4,3,3,1,5,3,3,2,1,1,2,3,C
+Deanna-IV,101797,Business Analyst,12,39,11.8," 68,495 ", 13.1 ,8,Graduate,5,3,1,4,4,5,3,5,4,4,1,4,B
+Edith-IV,101809,Data Scientist,10,78,11.9," 59,643 ", 11.9 ,3,Doctorate,4,2,3,5,4,5,4,1,1,3,3,5,B
+Clark-IV,101880,Business Analyst,8,78,11.7," 66,846 ", 11.7 ,3,Graduate,1,2,5,3,4,1,5,4,4,1,2,4,B
+Gianna-IV,101798,Data Analyst,14,19.5,11.1," 47,034 ", 12.4 ,6,Post Graduate,4,5,3,5,4,1,5,3,5,2,5,3,A
+Wilson-IV,101800,Chief Data Scientist,16,58.5,5.1," 158,648 ", 10.7 ,5,Post Graduate,2,3,1,1,4,5,4,1,5,3,5,3,B
+Sarah-IV,101801,Business Analyst,10,58.5,3.1," 94,159 ", 5.6 ,2,Post Graduate,4,5,4,3,5,5,2,3,2,3,5,1,B
+Alina-IV,100100,Business Analyst,8,39,12.8," 54,429 ", 14.1 ,8,Graduate,1,3,1,1,4,4,5,4,5,5,5,3,B
+Mary-IV,101803,Domain Expert,12,39,1.2," 65,255 ", 4.6 ,1,Doctorate,4,1,5,2,4,2,2,4,5,3,3,1,B
+Kellan-IV,100131,Business Analyst,8,19.5,12.3," 57,492 ", 14.0 ,6,Graduate,2,4,2,2,4,3,4,1,3,3,5,4,B
+Albert-IV,100153,Data Architect,6,117,12.3," 76,534 ", 13.5 ,6,Doctorate,5,5,2,5,5,4,3,4,1,5,3,1,B
+Tess-IV,100312,Business Analyst,8,97.5,12.6," 90,060 ", 17.5 ,1,Post Graduate,1,5,4,3,4,2,4,4,3,1,4,2,B
+Alen-IV,101814,Domain Expert,6,58.5,4.2," 80,949 ", 4.2 ,4,Graduate,1,2,5,2,5,1,5,5,1,5,3,5,B
+Amelia-IV,101816,Data Scientist,8,58.5,8.2," 113,907 ", 12.4 ,2,Doctorate,3,5,5,1,4,1,2,4,5,2,5,1,B
+Alexia-IV,101821,Domain Expert,16,39,10.7," 105,175 ", 11.9 ,8,Doctorate,4,1,3,4,5,2,1,2,5,4,3,3,B
+Joyce-IV,101822,Domain Expert,12,58.5,6.5," 76,743 ", 8.7 ,1,Post Graduate,4,3,1,5,4,5,5,5,4,2,2,4,A
+Lucas-IV,101823,Business Analyst,16,97.5,11.2," 80,113 ", 15.7 ,3,Post Graduate,2,4,4,1,5,5,1,3,4,2,4,1,B
+Penelope-IV,101826,Data Engineer,10,39,6.9," 31,874 ", 6.9 ,1,Post Graduate,1,2,5,4,5,3,4,1,5,2,4,4,B
+Chester-IV,101827,Data Scientist,6,78,23.7," 121,755 ", 25.3 ,7,Post Graduate,3,1,2,1,4,3,3,5,1,3,5,1,C
+Alexia-IV,101830,Data Scientist,10,39,8.8," 80,762 ", 8.8 ,6,Graduate,5,2,2,1,4,1,3,5,4,3,4,3,B
+Rafael-IV,101834,Data Analyst,20,58.5,4.4," 42,314 ", 6.9 ,4,Post Graduate,3,1,4,4,4,2,2,1,1,5,1,3,C
+Tony-IV,100420,Business Analyst,8,58.5,12.1," 64,619 ", 13.4 ,7,Graduate,4,1,3,3,5,5,3,5,4,1,1,2,B
+Kellan-IV,101837,Chief Data Scientist,8,58.5,3.2," 186,020 ", 15.9 ,1,Doctorate,2,4,5,5,5,4,2,5,2,5,3,1,B
+Carlos-IV,101845,Business Analyst,16,58.5,9.9," 60,730 ", 12.5 ,8,Graduate,1,4,3,4,4,2,4,5,4,5,2,3,B
+Maya-IV,101847,Data Scientist,16,39,2.1," 82,034 ", 2.1 ,1,Graduate,3,2,1,5,5,4,4,4,2,5,4,1,B
+Chloe-IV,101849,Business Analyst,14,97.5,8.7," 66,869 ", 11.7 ,3,Graduate,4,5,2,4,4,1,3,3,3,3,5,3,B
+Carlos-IV,101852,Data Engineer,8,58.5,9.3," 44,918 ", 10.7 ,5,Graduate,4,4,4,1,4,1,4,2,2,4,1,3,B
+Alfred-IV,100571,Data Engineer,8,39,12.2," 60,212 ", 12.2 ,4,Graduate,4,2,1,1,5,4,2,3,3,2,5,4,B
+Emma-IV,101857,Data Scientist,8,78,10.1," 101,075 ", 15.0 ,1,Post Graduate,2,1,4,2,5,1,3,5,5,1,5,3,B
+Tara-IV,101859,Domain Expert,12,58.5,9," 75,224 ", 12.3 ,1,Graduate,3,4,2,2,4,2,1,2,1,4,5,4,B
+Paige-IV,101860,Data Engineer,8,58.5,1.6," 46,756 ", 4.2 ,1,Graduate,5,4,2,4,4,5,3,1,4,4,1,4,B
+Aston-IV,101864,Software Developer,16,97.5,10.6," 41,712 ", 12.6 ,7,Post Graduate,4,1,3,2,5,4,4,2,4,3,5,4,B
+Edward-IV,101867,Chief Data Scientist,6,58.5,23.9," 231,714 ", 31.8 ,7,Doctorate,1,5,5,1,5,1,3,1,4,2,3,2,B
+Marcus-IV,100600,Business Analyst,6,39,12.1," 55,581 ", 13.6 ,2,Graduate,4,1,5,5,4,1,3,3,3,5,2,3,B
+Vivian-IV,101869,Business Analyst,16,39,9.4," 66,181 ", 9.4 ,2,Graduate,5,2,4,1,5,4,2,3,1,2,2,4,B
+Joyce-IV,101870,Data Analyst,14,39,8.8," 56,253 ", 10.2 ,3,Graduate,2,5,1,4,4,2,3,5,3,3,1,4,B
+Briony-IV,101871,Data Analyst,8,39,4," 45,977 ", 5.0 ,2,Graduate,5,3,3,3,5,5,3,2,5,5,4,4,A
+Antony-IV,101875,Software Developer,14,58.5,2.7," 33,653 ", 3.8 ,1,Graduate,4,4,3,3,5,4,1,2,1,2,4,2,B
+James-IV,101117,Business Analyst,8,39,12.6," 55,903 ", 12.6 ,4,Graduate,4,2,5,5,4,1,1,5,1,2,5,4,B
+Aston-IV,101878,Data Analyst,18,39,2.7," 39,128 ", 4.5 ,1,Post Graduate,2,4,4,3,5,4,3,3,4,2,3,5,B
+Gianna-IV,101165,Business Analyst,8,58.5,12.1," 86,440 ", 14.5 ,4,Doctorate,3,1,2,4,4,3,3,1,2,5,5,4,B
+Ada-IV,101881,Data Engineer,6,39,9.4," 49,454 ", 11.2 ,3,Post Graduate,1,5,5,1,5,3,3,4,2,2,3,1,B
+Lucia-IV,101885,Data Analyst,16,39,6.7," 50,479 ", 9.1 ,1,Post Graduate,2,1,3,5,4,4,4,2,4,4,5,2,B
+Vincent-IV,101756,Business Analyst,10,39,12.8," 60,647 ", 14.4 ,1,Graduate,3,1,2,3,4,1,4,1,2,4,2,1,C
+Freddie-IV,100215,Business Analyst,6,39,13.9," 54,935 ", 15.5 ,7,Graduate,1,4,2,4,5,4,1,3,5,1,4,3,B
+Alexia-IV,101890,Database Administrator,16,39,11.4," 45,788 ", 13.7 ,7,Post Graduate,5,4,3,1,4,3,2,5,3,4,4,3,B
+Julia-IV,101784,Business Analyst,8,58.5,13.8," 64,429 ", 16.9 ,2,Graduate,5,5,2,2,4,1,5,5,2,3,4,3,B
+Brooke-IV,100291,Business Analyst,6,39,14.8," 61,709 ", 17.5 ,3,Graduate,1,3,3,1,4,5,3,5,1,2,4,2,B
+Amber-IV,101905,Data Analyst,18,39,6.3," 47,183 ", 7.6 ,6,Graduate,2,3,1,2,4,4,2,2,1,4,4,3,C
+Kelvin-IV,100436,Business Analyst,6,39,14.7," 61,602 ", 17.7 ,1,Graduate,4,4,1,5,4,4,3,2,3,4,5,3,B
+Miranda-IV,101294,Data Scientist,6,39,17.7," 63,746 ", 21.4 ,4,Post Graduate,4,1,1,4,4,2,1,2,3,3,4,3,C
+Vivian-IV,101909,Business Analyst,16,58.5,6.7," 51,762 ", 6.7 ,2,Graduate,1,2,2,5,4,1,5,2,5,2,1,3,B
+Sabrina-IV,101911,Chief Data Scientist,8,58.5,14.4," 157,280 ", 18.0 ,5,Post Graduate,4,3,4,1,5,5,4,3,2,3,2,1,B
+Chelsea-IV,101912,Business Analyst,6,39,6.3," 77,568 ", 9.0 ,1,Graduate,5,5,2,1,4,2,4,1,2,1,4,2,B
